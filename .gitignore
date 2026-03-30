@@ -1,0 +1,12 @@
+node_modules
+.next
+.env
+.env.local
+.env*.local
+
+
+# Chat data (contains user conversations)
+data/chats/
+
+# Ignore admin panel (separate repo)
+admin-panel/

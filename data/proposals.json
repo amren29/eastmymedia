@@ -1,0 +1,32 @@
+[
+  {
+    "clientName": "Dashboard Test",
+    "clientEmail": "dash@test.com",
+    "message": "Testing DB",
+    "billboards": [
+      {
+        "id": "2",
+        "code": "KK-MALL-015",
+        "name": "1Borneo Mall Entrance",
+        "location": "1Borneo Hypermall, Kota Kinabalu",
+        "region": "Kota Kinabalu",
+        "latitude": 5.985,
+        "longitude": 116.08,
+        "price": 4500,
+        "priceMonthly": "RM 4,500/mo",
+        "traffic": "60K daily",
+        "trafficDaily": 60000,
+        "type": "Static",
+        "size": "8m × 4m",
+        "width": 8,
+        "height": 4,
+        "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=800&auto=format&fit=crop",
+        "available": true,
+        "featured": true
+      }
+    ],
+    "id": "8jsphhq6bne",
+    "createdAt": "2025-11-26T09:36:49.973Z",
+    "status": "new"
+  }
+]

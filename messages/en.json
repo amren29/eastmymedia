@@ -1,0 +1,1453 @@
+{
+  "common": {
+    "home": "Home",
+    "explore": "Explore",
+    "browseMedia": "Browse Media",
+    "blog": "Blog",
+    "oohExpert": "OOH Expert",
+    "services": "Services",
+    "aboutUs": "About Us",
+    "contact": "Reach Us",
+    "signIn": "Sign in",
+    "signOut": "Sign out",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "back": "Back",
+    "send": "Send",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "toggleMenu": "Toggle menu",
+    "close": "Close",
+    "checkThisOut": "Check this out:"
+  },
+  "nav": {
+    "exploreBillboards": "Explore Billboards",
+    "aiPlanner": "AI Planner",
+    "resources": "Resources",
+    "aboutUs": "About Us",
+    "services": "Services"
+  },
+  "home": {
+    "hero": {
+      "badge": "East Malaysia's Premier OOH Platform",
+      "title": "East Malaysia's Most Complete",
+      "titleHighlight": "Outdoor Advertising Network",
+      "description": "From static billboards to digital LED screens, Eastmy Media helps brands unlock maximum visibility with high-impact placements and real-time campaign intelligence.",
+      "popular": "Popular:",
+      "exploreMedia": "Explore",
+      "exploreMediaHighlight": "Media",
+      "exploreMediaEnd": "Now",
+      "keyword": "Keyword",
+      "keywordPlaceholder": "e.g. Kota Kinabalu, Kuching",
+      "search": "Search",
+      "browseByMedia": "Browse by Media",
+      "staticBillboard": "Static Billboard",
+      "digitalScreen": "Digital Screen",
+      "airportAds": "Airport Ads",
+      "mobileAds": "Mobile Ads",
+      "cta": "Explore Billboards",
+      "ctaSecondary": "Talk to AI Expert"
+    },
+    "stats": {
+      "billboards": "Billboards",
+      "locations": "Locations",
+      "clients": "Happy Clients",
+      "impressions": "Daily Impressions"
+    },
+    "features": {
+      "title": "Why Choose Eastmy Media?",
+      "subtitle": "We provide comprehensive outdoor advertising solutions tailored for East Malaysia's unique market",
+      "premium": {
+        "title": "Premium Locations",
+        "description": "Strategic billboard placements in high-traffic areas across Sabah"
+      },
+      "ai": {
+        "title": "AI-Powered Planning",
+        "description": "Get personalized recommendations from our AI expert, Jason"
+      },
+      "analytics": {
+        "title": "Traffic Analytics",
+        "description": "Data-driven insights on audience reach and engagement"
+      },
+      "support": {
+        "title": "Local Expertise",
+        "description": "Deep understanding of Sabah's market and culture"
+      }
+    },
+    "cta": {
+      "title": "Ready to Amplify Your Brand?",
+      "description": "Let our AI expert help you find the perfect billboard locations for your campaign",
+      "button": "Talk to Jason"
+    },
+    "about": {
+      "badge": "WHO WE ARE",
+      "title": "Get the",
+      "titleHighlight": "Sabahan and Sarawakian Eyes",
+      "description1": "Sabah & Sarawak's leading OOH network. We connect brands with high-impact billboard locations across East Malaysia.",
+      "description2": "From Kota Kinabalu to Kuching, our AI-powered platform helps you reach the right audience at the right time. Whether it's digital LEDs or static billboards, we make outdoor advertising simple and effective.",
+      "strategicTitle": "Strategic Locations",
+      "strategicDesc": "High-traffic placements across commercial zones and city centers.",
+      "dataDrivenTitle": "Data Driven Insights",
+      "dataDrivenDesc": "AI-powered insights for smarter location choices.",
+      "expertTitle": "Expert Support",
+      "expertDesc": "Seamless campaign management from start to finish.",
+      "learnMore": "Learn More About Us"
+    },
+    "districts": {
+      "badge": "OUR COVERAGE",
+      "title": "Districts We Cover",
+      "subtitle": "Strategic outdoor media placements across East Malaysia's major districts, reaching millions of potential customers every month.",
+      "locations": "Locations",
+      "population": "Population",
+      "growth": "Growth",
+      "otherDistricts": "Other Districts Coverage"
+    },
+    "mediaFormats": {
+      "badge": "MEDIA FORMATS",
+      "title": "Choose Your Format",
+      "subtitle": "From traditional billboards to cutting-edge digital displays, we offer diverse outdoor media formats to suit your campaign needs.",
+      "digitalBillboards": "Digital Billboards",
+      "digitalDesc": "High-resolution LED displays with dynamic content rotation.",
+      "staticBillboards": "Static Billboards",
+      "staticDesc": "Traditional large-format outdoor advertising with maximum visibility.",
+      "ledDisplays": "LED Displays",
+      "ledDesc": "Vibrant, eye-catching LED screens in high-traffic areas.",
+      "transitMedia": "Transit Media",
+      "transitDesc": "Mobile advertising on buses, taxis, and public transport.",
+      "sites": "Sites",
+      "browseAll": "Browse All Media Formats"
+    },
+    "process": {
+      "badge": "HOW IT WORKS",
+      "title": "Our Simple Process",
+      "subtitle": "From discovery to deployment, we've streamlined outdoor advertising to make it easy, transparent, and effective.",
+      "step1Title": "Discover Locations",
+      "step1Desc": "Browse our extensive inventory of premium billboard locations across East Malaysia. Use our interactive map and filters to find the perfect spots for your campaign.",
+      "step2Title": "Plan Your Campaign",
+      "step2Desc": "Leverage our AI-powered planning tool to optimize your media mix. Get data-driven insights on traffic patterns, demographics, and expected reach.",
+      "step3Title": "Book & Customize",
+      "step3Desc": "Select your preferred dates, upload your creative assets, and customize your campaign details. Our team reviews and confirms your booking within 24 hours.",
+      "step4Title": "Launch & Monitor",
+      "step4Desc": "Your campaign goes live on schedule. Track performance with real-time analytics, view proof of display, and measure your campaign's impact."
+    },
+    "blogSection": {
+      "badge": "INSIGHTS & RESOURCES",
+      "title": "Latest from Our Blog",
+      "subtitle": "Stay updated with industry trends, tips, and insights on outdoor advertising.",
+      "viewAll": "View All Articles",
+      "by": "By",
+      "readMore": "Read More"
+    },
+    "faq": {
+      "badge": "FAQ",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Got questions? We've got answers. Find everything you need to know about outdoor advertising with Eastmy.",
+      "stillHaveQuestions": "Still have questions? We're here to help!",
+      "contactSupport": "Contact Our Support Team →",
+      "items": [
+        {
+          "question": "What services does Eastmy Media provide?",
+          "answer": "Eastmy Media offers complete outdoor advertising solutions across East Malaysia, including Sabah and Sarawak. We provide static billboards, digital LED screens, unipoles, building wraps, transit ads, roadside bunting and AI-powered OOH campaign planning. Our platform helps businesses select the best locations and maximise visibility with real-time data insights."
+        },
+        {
+          "question": "How does Eastmy Media’s AI OOH planning system work?",
+          "answer": "Our AI system analyses traffic patterns, audience movement, demographic data, visibility strength, and historical performance of each billboard location. Using this data, it recommends the most effective sites for your target audience and campaign goals. This ensures smarter media buying, reduced wastage, and higher advertising ROI."
+        },
+        {
+          "question": "Which areas do you cover in East Malaysia?",
+          "answer": "We cover major cities and districts across Sabah and Sarawak. In Sabah, this includes Kota Kinabalu, Penampang, Putatan, Sandakan, Tawau, Tuaran, Beaufort, Papar, Keningau, Kudat and more. In Sarawak, we serve key markets such as Kuching, Sibu, Bintulu, and Miri. Our growing network ensures strong regional coverage across East Malaysia."
+        },
+        {
+          "question": "How much does it cost to advertise on billboards with Eastmy Media?",
+          "answer": "The cost depends on the location, size, traffic volume, and format (static or digital). Billboard prices in East Malaysia range from affordable SME-friendly placements to premium sites in high-traffic urban areas. Share your budget and objectives with us, and we will recommend the most effective options."
+        },
+        {
+          "question": "What is the minimum rental period for outdoor advertising?",
+          "answer": "Most OOH placements have a minimum rental period of 1 to 3 months. However, shorter-term campaigns may be available depending on the site and availability. Long-term campaigns often receive discounted rates and priority scheduling."
+        },
+        {
+          "question": "Does Eastmy Media offer creative design services?",
+          "answer": "Yes. We provide creative consultation and design support to ensure your billboard stands out and communicates effectively. Our team assists with layout, copywriting, colour selection, and visual optimisation for high outdoor visibility. We can tailor designs to match local cultural and audience preferences."
+        },
+        {
+          "question": "Do you provide both static and digital billboards?",
+          "answer": "We offer a mix of static and digital OOH options. Static billboards provide strong long-term presence, while digital LED displays allow animated content, multiple creative slots, and real-time updates. Digital OOH is ideal for promotions, events, seasonal campaigns, and high-impact visibility."
+        },
+        {
+          "question": "How does Eastmy Media measure billboard performance?",
+          "answer": "We use AI-powered analytics, traffic count data, geographical movement insights, and visibility metrics to assess each location’s performance. For digital screens, we provide impression estimates and playback reports. Our goal is to give advertisers transparent, data-backed insights to support campaign decisions."
+        },
+        {
+          "question": "What types of businesses benefit from OOH advertising?",
+          "answer": "OOH is effective for all industries. Our clients include retailers, F&B brands, automotive companies, real estate developers, telcos, financial institutions, tourism agencies, and government sectors. In East Malaysia, outdoor ads perform especially well for businesses targeting commuters, families, and tourists."
+        },
+        {
+          "question": "How do I start advertising with Eastmy Media?",
+          "answer": "Simply reach out through our website, WhatsApp, or email. Tell us your campaign goals, locations of interest, and target audience. Our team will propose the best billboard sites, provide design recommendations, and manage installation to ensure a fast, smooth, and efficient advertising experience."
+        }
+      ]
+    }
+  },
+  "explore": {
+    "title": "Explore Billboards",
+    "subtitle": "Find the perfect outdoor advertising location in Sabah",
+    "filters": {
+      "location": "Location",
+      "type": "Type",
+      "price": "Price Range",
+      "size": "Size",
+      "all": "All",
+      "heading": "Filters",
+      "reset": "Reset",
+      "locationLabel": "Location or Code",
+      "locationPlaceholder": "e.g. Kota Kinabalu",
+      "formatLabel": "Format",
+      "digital": "Digital",
+      "static": "Static",
+      "led": "LED",
+      "vooh": "VOOH",
+      "priceRangeLabel": "Price Range (Monthly)",
+      "min": "Min",
+      "max": "Max",
+      "minPlaceholder": "RM 0",
+      "maxPlaceholder": "RM 10,000",
+      "regionLabel": "Region",
+      "kotaKinabalu": "Kota Kinabalu",
+      "sandakan": "Sandakan",
+      "tawau": "Tawau",
+      "highways": "Highways",
+      "malls": "Malls",
+      "availabilityLabel": "Availability",
+      "availableNow": "Available Now",
+      "applyFilters": "Apply Filters"
+    },
+    "sort": {
+      "label": "Sort by",
+      "newest": "Newest",
+      "priceAsc": "Price: Low to High",
+      "priceDesc": "Price: High to Low",
+      "popular": "Most Popular"
+    },
+    "results": "billboards found",
+    "noResults": "No billboards found matching your criteria"
+  },
+  "billboard": {
+    "details": "Billboard Details",
+    "location": "Location",
+    "size": "Size",
+    "type": "Type",
+    "typeStatic": "Static Billboard",
+    "facing": "Facing",
+    "traffic": "Traffic",
+    "price": "Price",
+    "perMonth": "/month",
+    "availability": "Availability",
+    "available": "Available",
+    "booked": "Booked",
+    "specifications": "Specifications",
+    "inquire": "Inquire Now",
+    "similar": "Similar Billboards",
+    "mediaInfo": "Media Information",
+    "mediaPanel": "Media Panel",
+    "displaySize": "Display Size (ft)",
+    "resolution": "Resolution (px)",
+    "gpsCoordinate": "GPS Coordinate",
+    "trafficVolume": "Traffic Volume",
+    "mediaAvailability": "Media Availability",
+    "targetMarket": "Target Market",
+    "description": "Description",
+    "specification": "Specification",
+    "downloadPricing": "Download Pricing",
+    "share": "Share",
+    "nearbyMedia": "Nearby Media",
+    "viewDetails": "View Details",
+    "startingFrom": "Starting from",
+    "advertisingSpace": "Advertising Space for Rent at",
+    "mapView": "Map View",
+    "screen": "Screen",
+    "descriptionText": "Located at {location}, at the traffic junction with high visibility. Direction from City Center heading towards major residential and commercial areas.",
+    "specs": {
+      "operatingTime": "OPERATING TIME:",
+      "durationPerAd": "DURATION PER AD:",
+      "noOfAdvertisers": "NO. OF ADVERTISERS:",
+      "loopsPerHour": "LOOPS PER HOUR:",
+      "minLoopsPerDay": "MIN LOOPS PER DAY:",
+      "fileFormat": "FILE FORMAT:",
+      "duration": "Duration per Loop: 2.5 minutes / 150 seconds",
+      "slots": "Slots: 10 Pockets (15sec/pocket)",
+      "distance1": "650m to Centre Point Sabah",
+      "distance2": "1.2km to Pasar Besar Kota Kinabalu",
+      "distance3": "2.0km to Jesselton Point Ferry Terminal"
+    },
+    "browseStreetView": "Browse Street View",
+    "subjectToAvailability": "Subject to Availability"
+  },
+  "oohExpert": {
+    "title": "Jason - OOH Expert",
+    "greeting": "Hi, I'm Jason!",
+    "intro": "I'm your dedicated OOH Expert for East Malaysia. Tell me about your brand, budget, and goals – I'll recommend the perfect billboard locations and show you any available promotions.",
+    "placeholder": "Message Jason...",
+    "disclaimer": "Jason can make mistakes. Consider checking important information.",
+    "signInPrompt": "Sign in to save your chat history.",
+    "suggestions": {
+      "recommend": {
+        "title": "Recommend locations",
+        "subtitle": "for my brand and target audience"
+      },
+      "optimize": {
+        "title": "Optimize my budget",
+        "subtitle": "suggest best value billboards for my campaign"
+      },
+      "compare": {
+        "title": "Compare billboard options",
+        "subtitle": "help me choose between available locations"
+      },
+      "promotions": {
+        "title": "Show me promotions",
+        "subtitle": "what deals are available right now?"
+      }
+    },
+    "sidebar": {
+      "chatHistory": "Chat History",
+      "newChat": "New Chat",
+      "noHistory": "No chat history"
+    }
+  },
+  "blog": {
+    "title": "Expert Guides & Industry Insights",
+    "subtitle": "Discover the latest trends, strategies, and success stories to help you master Out-of-Home advertising in East Malaysia.",
+    "badge": "Insights & Resources",
+    "backToBlog": "Back to Blog",
+    "minRead": "min read",
+    "readMore": "Read More",
+    "posts": {
+      "guide2025": {
+        "title": "The Complete Guide to Outdoor Advertising in Sabah (2025 Edition)",
+        "excerpt": "Everything you need to know about billboard advertising in East Malaysia—from high-impact locations and pricing to AI-powered planning and cultural strategies for maximum campaign success.",
+        "date": "Nov 20, 2025",
+        "readTime": "12 min read",
+        "author": "Eastmy Media",
+        "category": "Guide",
+        "content": {
+          "introduction": {
+            "title": "Introduction",
+            "text": "Outdoor advertising in East Malaysia has expanded rapidly over the past decade as brands compete for visibility in a culturally diverse market with high mobile traffic and unique geographical landscapes. Whether promoting retail, tourism, FMCG, or government campaigns, Sabah offers a dynamic environment for OOH (Out-of-Home) exposure. With key urban hubs like Kota Kinabalu, Sandakan, and Tawau — plus rural highways with strong vehicle movement — the opportunities to reach Sabahan audiences are tremendous. This guide explains how OOH works in Sabah, why it performs differently from other states, and how brands can leverage it for maximum impact."
+          },
+          "marketLandscape": {
+            "title": "Understanding the Sabah Market Landscape",
+            "text": "Sabah stands out for its multi-ethnic communities, multilingual culture, and diverse lifestyle patterns. Unlike Kuala Lumpur where traffic is dense and predictable, Sabah's traffic flow varies based on tourism seasons, township layouts, and community-driven commerce. Brands that succeed here often focus on emotional connection, cultural tone, and relatable communication.",
+            "tip": "OOH ads that feel friendly, local, and Sabahan-driven tend to attract more attention. Using Sabahan slang, humor, or imagery can significantly increase recall and engagement."
+          },
+          "billboardTypes": {
+            "title": "Types of Billboards & OOH Formats in Sabah",
+            "intro": "Sabah offers a wide range of outdoor media formats suitable for various marketing objectives:",
+            "types": [
+              {
+                "name": "Static Billboards (Most Common)",
+                "description": "Found along major roads, highways, and town entrances. Ideal for consistent brand visibility."
+              },
+              {
+                "name": "Digital Billboards (LED)",
+                "description": "Growing mostly in Kota Kinabalu city areas. Allows animated visuals and rotating content."
+              },
+              {
+                "name": "Unipoles",
+                "description": "Large, high-impact structures typically located along highways or long-distance roads."
+              },
+              {
+                "name": "Building Wraps",
+                "description": "Perfect for crowded commercial hotspots; delivers massive visual impact."
+              },
+              {
+                "name": "LED Screens",
+                "description": "Less widespread compared to Klang Valley, but still valuable in KK, Putatan, and Penampang."
+              }
+            ]
+          },
+          "locations": {
+            "title": "High-Impact OOH Locations in Sabah",
+            "kk": {
+              "title": "Kota Kinabalu (KK) — No.1 Strategic Hub",
+              "description": "KK combines tourism, business districts, and heavy local traffic. High-performing zones include:",
+              "zones": [
+                "KK City Centre",
+                "Lintas",
+                "Damai",
+                "Luyang",
+                "Penampang",
+                "Putatan"
+              ]
+            },
+            "sandakan": {
+              "title": "Sandakan",
+              "description": "Strong along ring roads and key town entrances — ideal for FMCG and public campaigns."
+            },
+            "tawau": {
+              "title": "Tawau",
+              "description": "Effective for agriculture, industrial markets, and cross-border consumer segments."
+            },
+            "highways": {
+              "title": "Major Highways",
+              "description": "Routes like KK–Beaufort and Tuaran–Kudat offer excellent long-distance brand exposure."
+            }
+          },
+          "effectiveness": {
+            "title": "Why Outdoor Advertising in Sabah is Highly Effective",
+            "intro": "OOH in Sabah performs exceptionally well due to:",
+            "reasons": [
+              "High visibility",
+              "Steady daily traffic",
+              "Lower digital noise compared to metropolitan areas",
+              "Longer time spent on the road",
+              "Strong community-based word-of-mouth"
+            ],
+            "conclusion": "A striking billboard often becomes a talking point among locals. OOH is highly effective for brand awareness, retail direction, tourism promotions, events, and government messaging."
+          },
+          "costBudgeting": {
+            "title": "Cost & Budgeting for Billboard Advertising in Sabah",
+            "intro": "Pricing varies based on:",
+            "factors": [
+              "Location (prime city areas vs. suburban/rural)",
+              "Size and format",
+              "Traffic volume",
+              "Lighting inclusion",
+              "Structure type (static, unipole, LED, wrap)"
+            ],
+            "details": [
+              "City-centre billboards cost more due to high exposure.",
+              "Unipoles are premium due to their size and long-range visibility.",
+              "Suburban or rural boards are more affordable and great for long-term branding."
+            ],
+            "tip": "Brands often combine multiple boards across KK, Sandakan, Tawau, and northern/southern districts for full regional coverage."
+          },
+          "campaignPlanning": {
+            "title": "How to Plan an Effective OOH Campaign in Sabah",
+            "intro": "To succeed, you need to understand:",
+            "steps": [
+              {
+                "title": "Your Target Audience",
+                "description": "Tourists, daily commuters, families, business owners, or rural communities."
+              },
+              {
+                "title": "High-traffic routes",
+                "description": "Identify areas with consistent movement patterns."
+              },
+              {
+                "title": "The right format",
+                "description": "Static, unipole, LED, building wrap, or directional signage."
+              },
+              {
+                "title": "Strong creative design",
+                "description": "Use bold colours, short text, and culturally relevant elements. Sabahan-friendly designs perform significantly better."
+              }
+            ]
+          },
+          "aiRole": {
+            "title": "The Role of AI in Modern OOH Advertising",
+            "intro": "AI is transforming outdoor advertising in East Malaysia.",
+            "description": "Using AI-powered tools like Eastmy Media's platform, brands can:",
+            "benefits": [
+              "Analyse traffic data",
+              "Understand audience behaviour",
+              "Predict location performance",
+              "Match billboard sites to specific industries",
+              "Reduce media wastage",
+              "Optimise budgets with data-driven recommendations"
+            ],
+            "conclusion": "As AI evolves, OOH planning will become more precise and ROI-focused."
+          },
+          "conclusion": {
+            "title": "Conclusion",
+            "text": "Sabah's OOH landscape presents massive opportunities for brands aiming to build strong regional presence. With strategic location choices, culturally aligned creative design, and AI-powered planning tools, campaign performance can improve dramatically. As the market continues to expand, outdoor advertising remains one of Sabah's most trusted and impactful marketing channels — offering real-world visibility that digital media alone cannot match."
+          }
+        }
+      },
+      "whyBillboards": {
+        "title": "Why Billboard Advertising Still Works in 2025: The Sabah Perspective",
+        "excerpt": "Despite the rise of digital marketing, billboards continue to dominate as a powerful advertising medium. Discover why OOH remains essential for brand visibility, trust-building, and local impact in Sabah.",
+        "date": "Nov 20, 2025",
+        "readTime": "10 min read",
+        "author": "Eastmy Media",
+        "category": "Industry Insights",
+        "content": {
+          "introduction": {
+            "title": "Introduction",
+            "text": "In a world dominated by digital screens and social media, many people assume that traditional advertising — especially billboards — is losing relevance. But in Sabah, the opposite is true. Billboard advertising continues to be one of the strongest, most reliable, and most cost-effective marketing channels for brands. With high mobility, strong community culture, and large daily traffic across key roads, billboards remain a powerful way to capture real-world attention in 2025."
+          },
+          "visibility": {
+            "title": "Billboards Deliver Guaranteed Visibility",
+            "text": "One major reason billboards perform well in Sabah is simple: people are always on the road. From Kota Kinabalu to Sandakan to Tawau, thousands of commuters, tourists, and local families pass major roads every single day. Unlike digital ads that can be skipped, ignored, or blocked, billboard exposure is guaranteed — every driver and passenger sees it.",
+            "highlight": "In high-traffic areas like Lintas, Penampang, Putatan, KK City Centre, and Batu 5 Sandakan, a single billboard can generate tens of thousands of impressions daily."
+          },
+          "roadStructure": {
+            "title": "Sabah's Road Structure Makes OOH More Effective",
+            "intro": "Sabah's urban layout and long-route highways create natural funnels where billboards stand out even more. For example:",
+            "examples": [
+              "KK Outer Ring Road naturally channels continuous vehicle flow",
+              "The Sandakan Ring Road gives advertisers extended visibility",
+              "Tawau's main commercial corridor captures both business and cross-border buyers",
+              "Long stretches like KK–Beaufort or Tamparuli–Kudat give brands extended viewing time"
+            ],
+            "conclusion": "Because of these road patterns, billboards maintain attention for longer than those in rush-hour-heavy cities like KL."
+          },
+          "culturalConnection": {
+            "title": "Cultural Connection Increases Ad Impact",
+            "text": "Sabahans love things that feel familiar, friendly, and local. Billboards with Sabahan tone, local humour, or culturally relevant visuals often perform better because they feel more relatable. When an advertisement resonates emotionally, people remember it longer.",
+            "examples": [
+              "Short phrases in Sabahan slang",
+              "Visuals showing local scenery or lifestyle",
+              "Bright colours and bold layouts",
+              "Friendly, community-based messaging"
+            ],
+            "conclusion": "This emotional connection gives billboards a natural advantage over generic, nationwide digital ads."
+          },
+          "trustAuthority": {
+            "title": "Billboards Build Trust and Brand Authority",
+            "text": "In Sabah, people trust brands they see often — especially those that appear consistently in the same high-traffic locations. A billboard acts like a physical stamp of credibility. When customers repeatedly pass by your billboard, your brand becomes familiar and trustworthy.",
+            "industries": [
+              "Retail stores",
+              "Property developers",
+              "FMCG brands",
+              "Clinics and health services",
+              "Restaurants and cafés",
+              "Tourism operators"
+            ],
+            "highlight": "High exposure locations like KK City, Donggongon, Inanam, and Sandakan Mile 4 can establish brand authority quickly."
+          },
+          "viewingTime": {
+            "title": "Longer Viewing Time = Higher Recall",
+            "comparison": "Digital ads last seconds. Billboards last weeks or months, staying visible day and night.",
+            "text": "This long exposure gives customers plenty of time to absorb the message. In Sabah — where traffic may move slower and routes are long — the viewing duration becomes even more valuable. Brands gain high recall rates simply by being present along major travel paths."
+          },
+          "tourists": {
+            "title": "Perfect for Tourists and Local Audiences",
+            "intro": "Sabah's tourism sector makes billboards even more effective. Visitors from West Malaysia, Singapore, China, Korea, and Europe often rely on visual cues and directional ads. Billboards help them:",
+            "benefits": [
+              "Discover attractions",
+              "Find restaurants",
+              "Locate hotels",
+              "Identify retail stores",
+              "Learn about local products"
+            ],
+            "conclusion": "Meanwhile, locals travelling daily also absorb the same brand messages, giving campaigns dual impact."
+          },
+          "costEffective": {
+            "title": "Cost-Effective for Both Short and Long Campaigns",
+            "intro": "Billboards in Sabah generally cost less than major cities like KL or Penang — but deliver equally strong (or even stronger) visibility. This creates excellent value for:",
+            "uses": [
+              "Short-term promotions (festivals, sales, launches)",
+              "Long-term branding (3–12 months)",
+              "Seasonal tourism campaigns",
+              "Road safety or government awareness campaigns"
+            ],
+            "tip": "Rural or suburban billboards are even more affordable and often stay less cluttered, making them perfect for long-term coverage."
+          },
+          "aiPlanning": {
+            "title": "The Boost from AI-Enhanced OOH Planning",
+            "intro": "In 2025, AI technology is transforming how businesses plan billboard campaigns. Platforms like Eastmy Media's AI system help advertisers:",
+            "benefits": [
+              "Analyse traffic flow and peak hours",
+              "Identify audience demographics around each billboard",
+              "Predict the best locations for specific industries",
+              "Estimate impression value",
+              "Avoid low-performing placements",
+              "Maximize ROI through data-backed recommendations"
+            ],
+            "conclusion": "AI ensures every billboard ringgit is invested wisely — with clear results."
+          },
+          "conclusion": {
+            "title": "Conclusion",
+            "text": "Billboards remain one of the most effective marketing tools in Sabah for 2025 and beyond. With strong visibility, local cultural relevance, guaranteed traffic, and the new advantage of AI planning, outdoor advertising continues to outperform many digital channels. For businesses hoping to grow brand awareness across Sabah, billboard advertising remains a powerful and reliable strategy that delivers real, measurable impact."
+          }
+        }
+      },
+      "chooseBillboardLocation": {
+        "title": "Top Strategic Billboard Locations in Sabah (2025 Guide)",
+        "excerpt": "Discover the best billboard locations in Sabah for 2025. From KK City Centre to Sandakan Ring Road, learn where to place your outdoor ads for maximum traffic, visibility, and ROI.",
+        "date": "Nov 21, 2025",
+        "readTime": "12 min read",
+        "author": "Eastmy Media",
+        "category": "Location Guide",
+        "content": {
+          "introduction": {
+            "title": "Introduction",
+            "text": "Choosing the right billboard location can determine whether your campaign becomes a massive success or goes unnoticed. In Sabah — where every town has unique traffic patterns, cultural habits, and commuter behaviours — location selection is even more important. This guide highlights the top strategic billboard locations in Sabah for 2025, based on traffic flow, audience type, and commercial activity."
+          },
+          "kkCityCentre": {
+            "title": "1. Kota Kinabalu City Centre",
+            "bestFor": "Best for: Tourism, retail, F&B, brand authority",
+            "text": "KK City Centre remains the most powerful zone for billboard exposure in Sabah. It serves tourists, office workers, shoppers, and daily commuters — offering constant movement from morning until night.",
+            "spotsTitle": "High-impact spots include:",
+            "spots": [
+              "Gaya Street",
+              "KK Waterfront",
+              "Asia City",
+              "Segama & Bandaran Berjaya",
+              "Wisma Merdeka & Suria Sabah surroundings"
+            ],
+            "conclusion": "Campaigns placed here benefit from both vehicle and pedestrian traffic, making these locations perfect for brands targeting mass visibility."
+          },
+          "lintasLuyang": {
+            "title": "2. Lintas & Luyang",
+            "bestFor": "Best for: FMCG, lifestyle, home services, clinics",
+            "text": "Lintas is one of KK's busiest residential-commercial corridors. The traffic flow is extremely consistent, especially during peak hours.",
+            "spotsTitle": "Notable zones:",
+            "spots": [
+              "Lintas Plaza",
+              "Luyang Commercial",
+              "Lintas Highway towards Kolombong"
+            ],
+            "conclusion": "With long viewing distances and mixed audience demographics, this area delivers excellent reach for everyday consumer brands."
+          },
+          "penampangDonggongon": {
+            "title": "3. Penampang & Donggongon",
+            "bestFor": "Best for: Local businesses, property, autos, retail stores",
+            "text": "Penampang is a cultural hub and a rapidly developing township. The traffic volume here is boosted by housing estates, schools, shopping areas, and office zones.",
+            "spotsTitle": "High-performing points:",
+            "spots": [
+              "Donggongon town",
+              "Kepayan Ridge",
+              "Old Penampang Highway"
+            ],
+            "conclusion": "The community-driven culture makes this area ideal for both promotional and long-term branding."
+          },
+          "putatanLokKawi": {
+            "title": "4. Putatan & Lok Kawi",
+            "bestFor": "Best for: Retail, telco, F&B, high-frequency branding",
+            "text": "Putatan remains one of the busiest southern gateways into KK. Anyone travelling from Papar, Lok Kawi, or Kinarut must pass through this corridor.",
+            "spotsTitle": "Key billboard stretches:",
+            "spots": [
+              "Putatan Highway",
+              "Near Giant Putatan",
+              "Lok Kawi town road"
+            ],
+            "conclusion": "These locations work extremely well for brands targeting families and daily commuters."
+          },
+          "sandakanRingRoad": {
+            "title": "5. Sandakan Ring Road",
+            "bestFor": "Best for: FMCG, government campaigns, community awareness",
+            "text": "Sandakan's ring road is one of the most important OOH corridors outside KK. Its long connecting routes and steady vehicle flow provide exceptional exposure.",
+            "spotsTitle": "Strategic spots include:",
+            "spots": [
+              "Mile 4 Commercial",
+              "Giant Sandakan area",
+              "Jalan Utara & Bandar Indah"
+            ],
+            "conclusion": "Brands that need broad reach across Sandakan's population consistently choose this area."
+          },
+          "tawauCorridor": {
+            "title": "6. Tawau Town & Commercial Corridor",
+            "bestFor": "Best for: Agriculture, industry, retail, cross-border consumer markets",
+            "text": "Tawau's commercial corridor — from Jalan Apas to Jalan Kuhara — offers some of Sabah's strongest billboard visibility due to mixed industries and business activities.",
+            "spotsTitle": "Prime billboard areas:",
+            "spots": [
+              "Tawau town centre",
+              "Fajar Complex",
+              "Kuhara Road",
+              "Apas Road (airport route)"
+            ],
+            "conclusion": "The diverse audience makes this area ideal for products targeting workers, families, and cross-border shoppers."
+          },
+          "majorHighways": {
+            "title": "7. Major Highways (KK–Beaufort, Tuaran–Kudat, KK Interior Routes)",
+            "bestFor": "Best for: Brand-building, lifestyle products, tourism, long-term campaigns",
+            "text": "Sabah's long-distance highways give brands extended exposure time. Drivers often view the same billboard for several seconds, increasing message retention.",
+            "spotsTitle": "Highway highlights:",
+            "spots": [
+              "KK–Beaufort road",
+              "Tuaran–Kota Belud–Kudat route",
+              "Tamparuli–Ranau road (tourism-heavy)",
+              "KK–Tambunan interior route"
+            ],
+            "conclusion": "Perfect for lifestyle brands, automotive, telco, and tourism messaging."
+          },
+          "airportRoutes": {
+            "title": "8. Airport Routes (KKIA & Tawau Airport)",
+            "bestFor": "Best for: Tourism, property, luxury, hospitality",
+            "text": "Billboards placed near airport routes target travellers, business professionals, and visitors entering Sabah. These locations deliver:",
+            "benefits": [
+              "High-impact first impressions",
+              "Premium brand positioning",
+              "Strong visibility during slow-moving airport traffic"
+            ],
+            "conclusion": "Especially effective for hotels, developers, airlines, and tourism campaigns."
+          },
+          "aiHelps": {
+            "title": "How AI Helps Choose the Best Locations",
+            "intro": "With AI technology integrated into Eastmy Media's platform, advertisers can now analyse:",
+            "features": [
+              "Traffic patterns",
+              "Audience types (family, tourist, worker, student, etc.)",
+              "Peak movement times",
+              "Surrounding commercial activities",
+              "Estimated impressions",
+              "Historical campaign success"
+            ],
+            "conclusion": "This ensures advertisers select locations with maximum ROI, not just high price tags."
+          },
+          "conclusion": {
+            "title": "Conclusion",
+            "text": "The best billboard locations in Sabah offer a mix of high traffic, strategic township placement, and strong commercial activity. Whether your brand targets tourists, families, urban consumers, or industrial markets, Sabah provides a powerful range of OOH options. With the right locations — backed by AI-driven planning — your campaign can achieve remarkable reach and recognition throughout the state."
+          }
+        }
+      },
+      "chooseRightBillboard": {
+        "title": "How to Choose the Right Billboard for Your Brand in Sabah (2025 Guide)",
+        "excerpt": "Learn how to select the perfect billboard type, format, and placement for your brand in Sabah. From campaign objectives to AI-powered planning, this guide covers everything you need for outdoor advertising success.",
+        "date": "Nov 21, 2025",
+        "readTime": "11 min read",
+        "author": "Eastmy Media",
+        "category": "Strategy Guide",
+        "content": {
+          "introduction": {
+            "title": "Introduction",
+            "text": "Billboard advertising in East Malaysia offers huge potential — but choosing the wrong type or location can waste your budget. With different audience behaviours, traffic patterns, and local cultures across Sabah, selecting the right billboard requires strategic thinking. This guide simplifies the process so you can choose the perfect billboard format and placement for your brand in 2025."
+          },
+          "defineObjective": {
+            "title": "1. Define Your Campaign Objective First",
+            "text": "Before selecting a billboard, always ask: Do I want brand awareness? Do I want to promote a promo or event? Do I need directional signage? Do I want long-term branding? Your objective determines the style, size, and placement.",
+            "examplesTitle": "Examples:",
+            "examples": [
+              "For long-term brand authority → highway unipole or large static boards",
+              "For event/promo → town-area billboards with heavy daily traffic",
+              "For tourists → airport routes, coastal drives, KK city spots"
+            ],
+            "conclusion": "Without a clear objective, you may pick a board that doesn't suit your campaign goal."
+          },
+          "targetAudience": {
+            "title": "2. Know Your Target Audience in Sabah",
+            "text": "Sabah's audience is diverse. Different regions have different movement patterns and lifestyles.",
+            "urbanTitle": "If your target is urban consumers:",
+            "urbanText": "Choose high-traffic commercial zones:",
+            "urbanSpots": [
+              "Lintas",
+              "Penampang",
+              "Damai-Luyang",
+              "KK City Centre"
+            ],
+            "familiesTitle": "If your target is families and students:",
+            "familiesText": "Focus on suburban or residential corridors like:",
+            "familiesSpots": [
+              "Putatan",
+              "Inanam",
+              "Menggatal",
+              "Kinarut"
+            ],
+            "touristsTitle": "If your target is tourists:",
+            "touristsText": "Top spots include:",
+            "touristsSpots": [
+              "KKIA airport road",
+              "Tanjung Aru–KK route",
+              "Kundasang–Ranau tourism stretch"
+            ],
+            "businessTitle": "If your target is business or industrial markets:",
+            "businessText": "Best areas:",
+            "businessSpots": [
+              "Kolombong",
+              "Tawau commercial corridor",
+              "Sandakan industrial zones"
+            ],
+            "conclusion": "Understanding your audience ensures your message appears in the right place."
+          },
+          "billboardFormat": {
+            "title": "3. Choose the Billboard Format That Fits Your Message",
+            "text": "Sabah offers several OOH formats. Each has its strengths.",
+            "staticTitle": "Static Billboards (Most Common in Sabah)",
+            "staticText": "Best for long-term branding. Stable, highly visible, and cost-effective.",
+            "unipolesTitle": "Unipoles (Highways & Major Routes)",
+            "unipolesText": "Large size = huge visual impact. Perfect for lifestyle brands, telco, automotive, and government messages.",
+            "digitalTitle": "Digital LED Screens (KK & Key Towns)",
+            "digitalText": "Rotating ads, animation, and high flexibility. Good for F&B, movie launches, short-term promos, and tourism announcements.",
+            "wrapsTitle": "Building Wraps",
+            "wrapsText": "Full-building coverage in KK city areas. Premium impact for developers, luxury brands, and large-scale campaigns.",
+            "conclusion": "Each format serves different needs — choose based on clarity and visibility."
+          },
+          "trafficFlow": {
+            "title": "4. Consider Traffic Flow & Viewing Time",
+            "text": "A good billboard is not just about location — it's about how long people look at it.",
+            "areasTitle": "High viewing time areas:",
+            "areas": [
+              "Traffic lights",
+              "Roundabouts",
+              "T-junctions",
+              "Slow-moving city roads"
+            ],
+            "examplesTitle": "Examples in KK where viewing time is strong:",
+            "examples": [
+              "Sadong Jaya",
+              "Damai junction",
+              "Kepayan highway traffic light",
+              "Lintas–Jalan Bundusan intersection"
+            ],
+            "conclusion": "Longer viewing = higher message retention."
+          },
+          "readability": {
+            "title": "5. Prioritize Readability & Creative Impact",
+            "text": "Your billboard must communicate within 2–4 seconds. Follow this formula:",
+            "tips": [
+              "Big headline — Short and bold. Sabahans respond well to friendly tone and local flavour.",
+              "Clear visuals — High contrast, simple layout, strong brand colours.",
+              "Large logo — Make it unmistakable at a distance.",
+              "Contact or direction (if needed) — Especially useful for F&B, retail, or locations."
+            ],
+            "conclusion": "Creative clarity = campaign success."
+          },
+          "budgetSize": {
+            "title": "6. Match Your Billboard Size to Your Budget",
+            "text": "Billboard sizes in Sabah generally include:",
+            "sizes": [
+              "10' x 20' → Town area, affordable, short-term promos",
+              "12' x 24' → Standard city board",
+              "20' x 40' → Premium city & commercial zones",
+              "40' x 60' and larger → Highway unipoles, long-term branding"
+            ],
+            "conclusion": "Bigger is not always better — what matters is placement and readability."
+          },
+          "aiPlanning": {
+            "title": "7. Use AI for Smarter Billboard Planning",
+            "text": "With AI now integrated into Eastmy Media's system, you can make smarter decisions:",
+            "benefits": [
+              "Predict audience movement",
+              "Identify high-potential boards for your industry",
+              "Compare locations by visibility value",
+              "Estimate potential impressions",
+              "Avoid low-performing boards",
+              "Build optimized campaign routes"
+            ],
+            "conclusion": "AI eliminates guesswork and helps you choose the exact billboard that fits your audience and budget."
+          },
+          "conclusion": {
+            "title": "Conclusion",
+            "text": "Choosing the right billboard in Sabah requires a mix of strategy, audience understanding, creative design, and smart location analysis. When done correctly, billboard advertising becomes one of the highest-ROI channels for both short-term promotions and long-term brand building. With AI tools and expert insight from Eastmy Media, you can confidently select the perfect billboard to elevate your brand across Sabah."
+          }
+        }
+      },
+      "oohDigitalWorld": {
+        "title": "Why OOH Advertising Still Works in a Digital World",
+        "excerpt": "In a world dominated by smartphones and digital ads, OOH advertising is more powerful than ever. Discover why billboards offer unavoidable visibility, build trust, and complement digital marketing.",
+        "date": "Nov 21, 2025",
+        "readTime": "8 min read",
+        "author": "Eastmy Media",
+        "category": "Industry Insights",
+        "content": {
+          "introduction": {
+            "title": "Introduction",
+            "text": "In a world dominated by smartphones, social media feeds, and digital ads, many brands assume outdoor advertising is outdated. But the reality is the opposite — OOH (Out-of-Home) advertising is now more powerful and relevant than ever. As digital channels become crowded and competitive, billboards offer brands something rare: unavoidable visibility, real-world presence, and long-lasting impact. Whether in major cities or regions like Sabah, OOH continues to deliver results because it complements digital marketing, not competes with it."
+          },
+          "cutsThroughNoise": {
+            "title": "OOH Cuts Through the Noise of Digital Overload",
+            "text": "Digital platforms bombard people with thousands of ads daily. As a result, users skim, ignore, or block them entirely. But outdoor ads exist outside the screen, creating a break from digital fatigue. When commuters pass a billboard, there are no pop-ups, no skips, and no algorithm filtering the message. This uninterrupted visibility is the main reason OOH remains one of the most reliable advertising formats in the modern era."
+          },
+          "buildsTrust": {
+            "title": "Billboards Build Trust in an Era of Online Uncertainty",
+            "text": "Consumers today are more skeptical of online ads due to scams, fake promotions, and impersonation accounts. Physical billboards, however, feel legitimate and trustworthy. When a brand invests in outdoor advertising, it signals stability and credibility. This physical presence reassures customers that the company is real and established. Many businesses use OOH to strengthen brand authority before pushing digital campaigns, because credibility boosts online conversions."
+          },
+          "realWorldReach": {
+            "title": "OOH Reaches People in the Real World",
+            "text": "Digital marketing works only when people are online — but OOH reaches them everywhere else. Whether they are driving to work, walking in town, or running errands, outdoor ads connect brands with people in their natural daily routine. In places like Sabah where road travel is common, this exposure becomes even more powerful. The more time people spend outdoors, the more effective OOH becomes. This consistent offline visibility complements the fragmented nature of online attention."
+          },
+          "realTimeDecision": {
+            "title": "Outdoor Ads Influence Real-Time Decision Making",
+            "text": "OOH works exceptionally well for influencing immediate actions. A restaurant billboard near a commercial area can attract hungry drivers. A retail promo positioned near KK city can drive foot traffic instantly. A tourism ad along the airport road can shape travellers’ decisions as they arrive in Sabah. Billboards placed strategically can trigger on-the-spot behaviour, something digital ads often struggle to achieve."
+          },
+          "enhancesDigital": {
+            "title": "OOH Enhances Digital Campaigns Instead of Replacing Them",
+            "text": "The strongest strategy today is the combination of OOH and digital marketing. When people see a brand’s billboard repeatedly, they are more likely to recognise the same brand online. This increases click-through rates, improves ad recall, and strengthens brand memory. Many advertisers use OOH as the foundation of brand awareness, while digital channels handle conversion. This balanced approach creates a powerful full-funnel marketing strategy."
+          },
+          "creativeStandout": {
+            "title": "Creative OOH Stands Out More Than Ever",
+            "text": "Modern OOH is more than just static posters. Brands now use bold visuals, short impactful messages, and even QR codes to connect offline audiences with online experiences. Digital billboards add animation and motion to campaigns, making them more eye-catching. In Sabah, vibrant creative designs placed in high-traffic areas like KK, Penampang, or Sandakan often become memorable landmarks. Good OOH creative becomes part of the local environment — something digital ads can never achieve."
+          },
+          "highReachCost": {
+            "title": "OOH Delivers High Reach at a Predictable Cost",
+            "text": "Unlike digital ads where costs fluctuate due to bidding, competition, and algorithm changes, billboards offer consistent pricing. A single outdoor placement can deliver thousands of daily impressions for a fixed monthly cost. This predictability makes OOH one of the most cost-effective channels for long-term visibility. With digital ad prices rising yearly, more brands are returning to OOH to maintain stable marketing expenses."
+          },
+          "harderToAvoid": {
+            "title": "Harder to Avoid. Easier to Remember.",
+            "text": "People scroll past online ads, but they cannot scroll past a billboard. This simple truth explains why outdoor advertising still works in a digital world. Human brains also process large visuals faster and remember them longer. A strong headline or striking image on a billboard creates instant recognition. This is why brands that dominate their local OOH space often stay top-of-mind even without heavy digital spending."
+          },
+          "conclusion": {
+            "title": "Conclusion",
+            "text": "OOH advertising continues to thrive because it provides what digital channels cannot — real-world impact, guaranteed visibility, and long-term trust. In a digital-first world, outdoor advertising remains a powerful anchor that amplifies online campaigns and strengthens brand credibility. Whether you’re building awareness, promoting a new product, or targeting local communities in Sabah and beyond, OOH remains an essential and highly effective part of any modern marketing strategy."
+          }
+        }
+      },
+      "oohHotspots": {
+        "title": "The Top Billboard Locations in Sabah for Maximum Visibility (2025 Update)",
+        "excerpt": "Discover the top billboard locations and OOH hotspots across Sabah. From KK City Centre to Tawau and the Kundasang tourist route, find where to place your outdoor ads for maximum visibility and impact.",
+        "date": "Nov 21, 2025",
+        "readTime": "10 min read",
+        "author": "Eastmy Media",
+        "category": "Location Guide",
+        "content": {
+          "introduction": {
+            "title": "Introduction",
+            "text": "Choosing the right billboard location can determine whether your campaign succeeds or gets ignored. In Sabah, traffic movement, town layouts, local behavior, and tourism patterns make certain locations far more valuable than others. Whether your goal is awareness, sales-driven messaging, or event promotion, placing your OOH advertising in the right hotspot ensures maximum exposure. This guide highlights the top billboard locations in Sabah for 2025, based on traffic flow, commercial activity, and on-ground insights."
+          },
+          "kkcc": {
+            "title": "1. Kota Kinabalu City Centre (KKCC)",
+            "text": "KKCC remains the heart of Sabah's outdoor advertising ecosystem. With dense local traffic, constant tourism activity, and rapid commercial growth, brands get nonstop visibility here. Major roads like Jalan Gaya, Asia City, and Segama areas attract thousands of daily commuters. These high-density zones are ideal for banking, telco, retail, and nationwide campaigns.",
+            "whyTitle": "Why it's effective:",
+            "reasons": [
+              "Heavy mix of locals + tourists",
+              "Morning and evening traffic jams",
+              "Perfect for high-impact LED and giant static billboards",
+              "Strong brand recall due to repeated daily exposure"
+            ]
+          },
+          "lintasLuyang": {
+            "title": "2. Lintas & Luyang Corridors",
+            "text": "These two areas have grown rapidly as residential, business, and food hubs. With a strong middle-income and professional demographic, billboards here attract attention from families, workers, and daily commuters heading to the city.",
+            "whyTitle": "Why it's effective:",
+            "reasons": [
+              "High daily commuter flow",
+              "Popular food destinations",
+              "Strong spending power audience",
+              "Great for retail, F&B, and FMCG advertising"
+            ]
+          },
+          "penampang": {
+            "title": "3. Penampang & Donggongon Town",
+            "text": "Penampang is one of Sabah's most culturally rich and active zones. Donggongon town is constantly busy, making outdoor placements here suitable for mass-market campaigns.",
+            "whyTitle": "Why it's effective:",
+            "reasons": [
+              "High vehicle density",
+              "Strategic roundabouts and busy commercial streets",
+              "Good for telco, government messages, and festive promos",
+              "Repeated visibility from Sabahan families travelling daily"
+            ]
+          },
+          "putatan": {
+            "title": "4. Putatan Highway Stretch",
+            "text": "Putatan is a fast-growing township with strong traffic flow connecting to KK International Airport and Petagas. This area is known for its long-stretch highway billboards.",
+            "whyTitle": "Why it's effective:",
+            "reasons": [
+              "Captures traffic heading to/from the airport",
+              "Excellent for tourism, hotel, and service ads",
+              "Long viewing range = strong message recall"
+            ]
+          },
+          "sandakan": {
+            "title": "5. Sandakan Mile 4–8 & Bandar Indah",
+            "text": "Sandakan's main hotspots revolve around Mile 4–8, where banks, restaurants, and retail stores are concentrated. Bandar Indah is another key zone with heavy commercial activity.",
+            "whyTitle": "Why it's effective:",
+            "reasons": [
+              "Consistent local and business traffic",
+              "Favoured by FMCG brands",
+              "Excellent for supermarkets, telco, and education ads"
+            ]
+          },
+          "tawau": {
+            "title": "6. Tawau Town Centre & Jalan Apas",
+            "text": "Tawau remains a strong OOH location with a mix of industrial, agricultural, and retail audiences. Jalan Apas, in particular, is a high-exposure stretch connecting town to major residential zones.",
+            "whyTitle": "Why it's effective:",
+            "reasons": [
+              "Peak-hour traffic is very heavy",
+              "Strong consumer base from surrounding districts",
+              "Great for cross-border consumer categories and farm sector brands"
+            ]
+          },
+          "highways": {
+            "title": "7. Tuaran Road & KK–Beaufort Highway",
+            "text": "These long-stretch highways are perfect for brand-building campaigns. With consistent vehicle flow and long-range visibility, unipoles placed here deliver excellent impressions.",
+            "whyTitle": "Why it's effective:",
+            "reasons": [
+              "Large formats dominate attention",
+              "Minimal ad clutter means your brand stands out",
+              "Ideal for automotive, lifestyle, and big brand campaigns"
+            ]
+          },
+          "kundasang": {
+            "title": "8. Kundasang Tourist Route (KK–Ranau Road)",
+            "text": "This route is extremely active during holiday seasons, school breaks, and weekends. With locals and tourists travelling to Kundasang, road exposure along this stretch is extremely valuable.",
+            "whyTitle": "Why it's effective:",
+            "reasons": [
+              "High domestic tourism traffic",
+              "Scenic long routes with fewer distractions",
+              "Best for hospitality, F&B, and travel campaigns"
+            ]
+          },
+          "conclusion": {
+            "title": "Conclusion",
+            "text": "Placing your billboard in the right Sabah location is the key to achieving maximum visibility and brand impact. Traffic flow, commercial clusters, and local movement habits all influence how well your outdoor ads perform. By choosing strategic hotspots like KK City Centre, Lintas, Penampang, Sandakan, and Tawau, your campaigns can reach the right audience at the right time — consistently."
+          }
+        }
+      }
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+    "form": {
+      "title": "Send us a Message",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "company": "Company Name",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "firstNamePlaceholder": "John",
+      "lastNamePlaceholder": "Doe",
+      "emailPlaceholder": "john@example.com",
+      "phonePlaceholder": "+60 12-345 6789",
+      "companyPlaceholder": "Your Company",
+      "subjectPlaceholder": "How can we help you?",
+      "messagePlaceholder": "Tell us more about your needs..."
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": "Office Address",
+      "email": "Email",
+      "phone": "Phone",
+      "hours": "Business Hours",
+      "addressLine1": "HQ: TT3 SOHO Commercial@Kuching, 1st Floor, Jalan Canna 93350 Kuching, Sarawak.",
+      "addressLine2": "Branch: Jalan Tungku Abdul Rahman, Asia City, 88000 Kota Kinabalu, Sabah.",
+      "addressLine3": "",
+      "phoneNumber": "60 18-902 3676",
+      "mobileNumber": "",
+      "emailAddress": "hello@eastmymedia.my",
+      "salesEmail": "",
+      "mondayFriday": "Monday - Friday: 9:00 - 5:30",
+      "saturday": "Saturday - Sunday: Closed",
+      "sunday": ""
+    },
+    "help": {
+      "title": "Need Immediate Help?",
+      "description": "Our sales team is ready to assist you with your outdoor advertising needs.",
+      "button": "Call Sales Team"
+    },
+    "success": {
+      "title": "Message Sent Successfully!",
+      "description": "Thank you for reaching out. We have received your message and will get back to you shortly.",
+      "button": "Close"
+    },
+    "map": {
+      "title": "Visit Our Office",
+      "subtitle": "We're located in the heart of Kota Kinabalu"
+    }
+  },
+  "footer": {
+    "description": "East Malaysia's leading outdoor advertising platform. Find premium billboard locations across the state.",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "followUs": "Follow Us",
+    "copyright": "© 2025 Eastmy Media. All rights reserved."
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "lastUpdated": "Last updated: November 20, 2025",
+    "badge": "Legal",
+    "sections": {
+      "acceptance": {
+        "title": "1. Acceptance of Terms",
+        "content": "By accessing and using Eastmy Media's website and services, you accept and agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use our services."
+      },
+      "description": {
+        "title": "2. Description of Services",
+        "content": "Eastmy Media provides an online platform for exploring, comparing, and booking outdoor advertising spaces (billboards) in East Malaysia. Our services include:",
+        "items": [
+          "Billboard location browsing and search",
+          "AI-powered advertising recommendations via Jason (OOH Expert)",
+          "Campaign planning tools",
+          "Inquiry and booking services"
+        ]
+      },
+      "accounts": {
+        "title": "3. User Accounts",
+        "content": "Some features of our platform require you to create an account using Google Sign-In. You are responsible for maintaining the confidentiality of your account and for all activities that occur under your account."
+      },
+      "ai": {
+        "title": "4. Use of AI Services",
+        "content": "Our AI assistant, Jason, provides recommendations based on the information you provide. While we strive for accuracy, AI-generated suggestions should be considered as guidance only. Final advertising decisions should be made based on your own judgment and business needs."
+      },
+      "ip": {
+        "title": "5. Intellectual Property",
+        "content": "All content on this website, including text, graphics, logos, images, and software, is the property of Eastmy Media or its content suppliers and is protected by Malaysian and international copyright laws."
+      },
+      "conduct": {
+        "title": "6. User Conduct",
+        "content": "You agree not to:",
+        "items": [
+          "Use the service for any unlawful purpose",
+          "Attempt to gain unauthorized access to our systems",
+          "Interfere with or disrupt the service",
+          "Upload malicious code or content",
+          "Impersonate any person or entity"
+        ]
+      },
+      "disclaimer": {
+        "title": "7. Disclaimer of Warranties",
+        "content": "Our services are provided \"as is\" without warranties of any kind. We do not guarantee that the service will be uninterrupted, secure, or error-free. Billboard availability and pricing are subject to change without notice."
+      },
+      "liability": {
+        "title": "8. Limitation of Liability",
+        "content": "Eastmy Media shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the service."
+      },
+      "thirdParty": {
+        "title": "9. Third-Party Services",
+        "content": "Our platform may contain links to third-party websites or services. We are not responsible for the content or practices of these external sites."
+      },
+      "modifications": {
+        "title": "10. Modifications to Terms",
+        "content": "We reserve the right to modify these terms at any time. Changes will be effective immediately upon posting to the website. Your continued use of the service constitutes acceptance of the modified terms."
+      },
+      "governing": {
+        "title": "11. Governing Law",
+        "content": "These terms shall be governed by and construed in accordance with the laws of Malaysia. Any disputes shall be subject to the exclusive jurisdiction of the courts of East Malaysia, Malaysia."
+      },
+      "contact": {
+        "title": "12. Contact Information",
+        "content": "If you have any questions about these Terms of Use, please contact us at:"
+      }
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: November 20, 2025",
+    "badge": "Legal",
+    "sections": {
+      "intro": {
+        "title": "1. Introduction",
+        "content": "Eastmy Media (\"we,\" \"our,\" or \"us\") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website and services."
+      },
+      "collect": {
+        "title": "2. Information We Collect",
+        "personal": {
+          "title": "Personal Information",
+          "content": "When you sign in with Google, we collect:",
+          "items": [
+            "Name",
+            "Email address",
+            "Profile picture (if available)"
+          ]
+        },
+        "chat": {
+          "title": "Chat Data",
+          "content": "When you use our AI assistant (Jason), we store your conversation history to provide a personalized experience and allow you to access previous conversations."
+        },
+        "usage": {
+          "title": "Usage Information",
+          "content": "We automatically collect certain information when you visit our website, including:",
+          "items": [
+            "IP address",
+            "Browser type and version",
+            "Pages visited and time spent",
+            "Device information"
+          ]
+        }
+      },
+      "use": {
+        "title": "3. How We Use Your Information",
+        "content": "We use the collected information to:",
+        "items": [
+          "Provide and maintain our services",
+          "Personalize your experience",
+          "Save and retrieve your chat history",
+          "Improve our AI recommendations",
+          "Respond to your inquiries",
+          "Send service-related communications",
+          "Analyze usage patterns to improve our platform"
+        ]
+      },
+      "storage": {
+        "title": "4. Data Storage and Security",
+        "content": "Your data is stored securely on our servers. We implement appropriate technical and organizational measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction."
+      },
+      "thirdParty": {
+        "title": "5. Third-Party Services",
+        "content": "We use the following third-party services:",
+        "items": [
+          "Google OAuth: For user authentication",
+          "Mapbox: For displaying billboard locations on maps",
+          "OpenRouter/AI Services: For powering our AI assistant"
+        ],
+        "note": "These services have their own privacy policies, and we encourage you to review them."
+      },
+      "sharing": {
+        "title": "6. Data Sharing",
+        "content": "We do not sell, trade, or rent your personal information to third parties. We may share information only in the following circumstances:",
+        "items": [
+          "With your consent",
+          "To comply with legal obligations",
+          "To protect our rights and safety",
+          "With service providers who assist in operating our platform"
+        ]
+      },
+      "rights": {
+        "title": "7. Your Rights",
+        "content": "You have the right to:",
+        "items": [
+          "Access your personal data",
+          "Correct inaccurate information",
+          "Delete your account and associated data",
+          "Export your chat history",
+          "Withdraw consent at any time"
+        ]
+      },
+      "cookies": {
+        "title": "8. Cookies",
+        "content": "We use cookies and similar tracking technologies to enhance your experience on our website. These include:",
+        "items": [
+          "Essential cookies: Required for the website to function properly",
+          "Authentication cookies: To keep you signed in",
+          "Analytics cookies: To understand how you use our website"
+        ]
+      },
+      "retention": {
+        "title": "9. Data Retention",
+        "content": "We retain your personal information for as long as your account is active or as needed to provide you services. You can delete your chat history at any time through the platform. If you wish to delete your account entirely, please contact us."
+      },
+      "children": {
+        "title": "10. Children's Privacy",
+        "content": "Our services are not intended for individuals under the age of 18. We do not knowingly collect personal information from children."
+      },
+      "changes": {
+        "title": "11. Changes to This Policy",
+        "content": "We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page and updating the \"Last updated\" date."
+      },
+      "contact": {
+        "title": "12. Contact Us",
+        "content": "If you have any questions about this Privacy Policy or our data practices, please contact us at:"
+      }
+    }
+  },
+  "media": {
+    "title": "Media Inventory",
+    "subtitle": "Explore our complete collection of outdoor advertising spaces in Sabah",
+    "searchPlaceholder": "Search by location, size, or type...",
+    "filterBy": "Filter by",
+    "sortBy": "Sort by",
+    "clearFilters": "Clear all filters",
+    "results": "Results",
+    "showingResults": "Showing {count} of {total} media",
+    "filters": {
+      "mediaType": "Media Type",
+      "allTypes": "All Types",
+      "region": "Region",
+      "allRegions": "All Regions",
+      "priceRange": "Price Range",
+      "anyPrice": "Any Price",
+      "under5k": "Under RM 5k",
+      "5kTo10k": "RM 5k - 10k",
+      "10kTo20k": "RM 10k - 20k",
+      "above20k": "Above RM 20k"
+    },
+    "traffic": "Traffic",
+    "size": "Size",
+    "startingFrom": "Starting from",
+    "viewDetails": "View Details",
+    "perMonth": "/mo",
+    "dailyTraffic": "Daily Traffic",
+    "noResults": "No results found",
+    "tryAdjusting": "Try adjusting your filters or search query"
+  },
+  "globalCTA": {
+    "title": "Ready to Amplify Your Brand?",
+    "description": "Let's create an outdoor advertising campaign that drives real results for your business.",
+    "explore": "Explore Billboards",
+    "consultation": "Schedule Consultation"
+  },
+  "whatsapp": {
+    "defaultMessage": "Hi, I'm interested in outdoor advertising opportunities.",
+    "ariaLabel": "Chat on WhatsApp",
+    "chatWithUs": "Chat with us"
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "Transforming Outdoor Advertising in East Malaysia",
+      "description": "Redefining outdoor advertising in East Malaysia. We use data and AI to connect brands with audiences through strategic, high-visibility billboard placements across Sabah and Sarawak."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To make outdoor advertising in East Malaysia accessible and effective for every business by offering transparent, data driven solutions that maximize marketing impact through strategic billboard and outdoor media placements."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To become the leading OOH media platform in East Malaysia by delivering innovative, transparent, and high performing outdoor advertising solutions built on advanced technology and strong local expertise."
+    },
+    "story": {
+      "title": "Our Story",
+      "paragraph1": "Founded in 2024, Eastmy Media began with a simple goal. Outdoor advertising in East Malaysia was hard to navigate, lacked transparency, and offered little data for businesses that wanted to grow their reach. We set out to change that.",
+      "paragraph2": "We saw a clear opportunity to bring technology and clarity to an industry that had stayed the same for decades. By combining deep local market knowledge with AI powered insights, we built a platform that makes billboard and outdoor advertising accessible, measurable, and effective for every business.",
+      "paragraph3": "Today, Eastmy Media is proud to support brands across Sabah and Sarawak. From Kota Kinabalu to Kuching, Sandakan to Tawau, we help businesses connect with the right audiences through strategic and high visibility outdoor media placements."
+    },
+    "values": {
+      "title": "Our Values",
+      "subtitle": "The principles that guide everything we do",
+      "customerFirst": {
+        "title": "Customer First",
+        "description": "We prioritize our clients' success and build lasting partnerships."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We continuously evolve with technology to deliver better solutions."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "We maintain the highest standards in everything we deliver."
+      },
+      "localExpertise": {
+        "title": "Local Expertise",
+        "description": "We leverage deep knowledge of Sabah's markets and communities."
+      }
+    },
+    "stats": {
+      "billboards": "Billboard Locations",
+      "clients": "Happy Clients",
+      "impressions": "Daily Impressions",
+      "satisfaction": "Client Satisfaction"
+    }
+  },
+  "servicesPage": {
+    "hero": {
+      "badge": "Our Services",
+      "title": "Comprehensive Outdoor Advertising Solutions",
+      "description": "From strategic planning to campaign execution, we provide end-to-end outdoor media solutions powered by data and local expertise."
+    },
+    "whatWeOffer": {
+      "title": "What We Offer",
+      "subtitle": "Tailored solutions to meet your outdoor advertising goals"
+    },
+    "services": {
+      "marketplace": {
+        "title": "Billboard Marketplace",
+        "description": "Access our curated inventory of premium billboard locations across East Malaysia with real-time availability and transparent pricing.",
+        "features": [
+          "50+ Locations",
+          "Real-time Availability",
+          "Instant Quotes",
+          "Online Booking"
+        ]
+      },
+      "oohExpert": {
+        "title": "OOH Expert",
+        "description": "Your AI-powered consultant trained exclusively on our inventory. Get personalized billboard recommendations based on your brand, budget, and goals. Plus instant access to current promotions and deals.",
+        "features": [
+          "Location Recommendations",
+          "Budget Optimization",
+          "Promotion Alerts",
+          "Campaign Planning"
+        ]
+      },
+      "analytics": {
+        "title": "Analytics & Reporting",
+        "description": "Track your campaign performance with detailed analytics including traffic data, impressions, and engagement metrics.",
+        "features": [
+          "Traffic Analytics",
+          "Impression Tracking",
+          "Custom Reports",
+          "ROI Measurement"
+        ]
+      },
+      "campaign": {
+        "title": "Campaign Management",
+        "description": "Full-service campaign management from creative design to installation and monitoring throughout your campaign.",
+        "features": [
+          "Creative Services",
+          "Installation",
+          "Monitoring",
+          "Maintenance"
+        ]
+      },
+      "consulting": {
+        "title": "Strategic Consulting",
+        "description": "Expert guidance on outdoor advertising strategy, location selection, and campaign optimization for your business.",
+        "features": [
+          "Market Analysis",
+          "Location Strategy",
+          "Competitor Research",
+          "Custom Solutions"
+        ]
+      },
+      "digital": {
+        "title": "Digital Billboard Network",
+        "description": "Leverage our growing network of digital billboards for dynamic, flexible advertising with real-time content updates.",
+        "features": [
+          "Dynamic Content",
+          "Flexible Scheduling",
+          "Multiple Creatives",
+          "Instant Updates"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "subtitle": "Our streamlined process makes outdoor advertising simple and effective",
+      "steps": {
+        "discover": {
+          "step": "01",
+          "title": "Discover",
+          "description": "Browse our billboard inventory or use our AI planner to find the perfect locations for your campaign."
+        },
+        "plan": {
+          "step": "02",
+          "title": "Plan",
+          "description": "Get instant quotes, compare options, and build your campaign with our easy-to-use tools."
+        },
+        "launch": {
+          "step": "03",
+          "title": "Launch",
+          "description": "We handle everything from creative production to installation, ensuring a smooth launch."
+        },
+        "optimize": {
+          "step": "04",
+          "title": "Optimize",
+          "description": "Monitor performance with real-time analytics and optimize your campaign for maximum impact."
+        }
+      }
+    },
+    "industries": {
+      "title": "Industries We Serve",
+      "subtitle": "Trusted by businesses across diverse sectors",
+      "list": [
+        "Retail & Shopping",
+        "Real Estate",
+        "Automotive",
+        "Food & Beverage",
+        "Tourism & Hospitality",
+        "Healthcare",
+        "Education",
+        "Financial Services",
+        "Technology",
+        "Entertainment",
+        "Government",
+        "Non-Profit"
+      ]
+    }
+  },
+  "rateCardModal": {
+    "title": "Download Rate Card",
+    "description": "Please fill in your details to receive the rate card for <strong>{mediaName}</strong>.",
+    "successTitle": "Request Sent!",
+    "successMessage": "We have received your request. Our team will contact you shortly.",
+    "nameLabel": "Name",
+    "companyLabel": "Company Name (Optional)",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone Number",
+    "namePlaceholder": "Your Name",
+    "companyPlaceholder": "Your Company",
+    "emailPlaceholder": "name@example.com",
+    "phonePlaceholder": "+60 12-345 6789",
+    "cancelButton": "Cancel",
+    "submitButton": "Request Rate Card",
+    "submittingButton": "Submitting...",
+    "errorDefault": "Something went wrong. Please try again.",
+    "errorFailed": "Failed to submit request"
+  },
+  "shareModal": {
+    "title": "Share",
+    "shareVia": "Share this link via",
+    "pageLink": "Page link",
+    "copied": "Copied!",
+    "copyToClipboard": "Copy to clipboard",
+    "checkThisOut": "Check this out!",
+    "failedToCopy": "Failed to copy link"
+  }
+}

@@ -1,0 +1,154 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "road-1",
+                "name": "Jalan Tun Fuad Stephens",
+                "traffic": 0.85
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.0732,
+                        5.9784
+                    ],
+                    [
+                        116.0750,
+                        5.9820
+                    ],
+                    [
+                        116.0800,
+                        5.9850
+                    ],
+                    [
+                        116.0850,
+                        5.9880
+                    ],
+                    [
+                        116.0900,
+                        5.9910
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "road-2",
+                "name": "Jalan Coastal",
+                "traffic": 0.65
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.0600,
+                        5.9700
+                    ],
+                    [
+                        116.0650,
+                        5.9750
+                    ],
+                    [
+                        116.0700,
+                        5.9780
+                    ],
+                    [
+                        116.0732,
+                        5.9784
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "road-3",
+                "name": "Jalan Lintas",
+                "traffic": 0.45
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.0900,
+                        5.9500
+                    ],
+                    [
+                        116.0920,
+                        5.9600
+                    ],
+                    [
+                        116.0940,
+                        5.9700
+                    ],
+                    [
+                        116.0960,
+                        5.9800
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "road-4",
+                "name": "Jalan Tuaran",
+                "traffic": 0.25
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.0800,
+                        5.9900
+                    ],
+                    [
+                        116.0820,
+                        6.0000
+                    ],
+                    [
+                        116.0840,
+                        6.0100
+                    ],
+                    [
+                        116.0860,
+                        6.0200
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "road-5",
+                "name": "Jalan Penampang",
+                "traffic": 0.90
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.0700,
+                        5.9400
+                    ],
+                    [
+                        116.0750,
+                        5.9450
+                    ],
+                    [
+                        116.0800,
+                        5.9500
+                    ],
+                    [
+                        116.0850,
+                        5.9550
+                    ]
+                ]
+            }
+        }
+    ]
+}

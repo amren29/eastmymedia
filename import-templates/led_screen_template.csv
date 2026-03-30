@@ -1,0 +1,6 @@
+skuId,name,location,type,available,totalPanel,width,height,unit,image,operatingTime,durationPerAd,noOfAdvertiser,loopPerHr,minLoopPerDay,fileFormat,description,gps,landmark,targetMarket,traffic,duration1,rentalPrice1,productionCost1,rateType1,duration2,rentalPrice2,productionCost2,rateType2
+CP01,Centre Point,"Jalan Coastal, Kota Kinabalu",LED Screen,TRUE,1,1920,1024,pixel,,7:00 AM - 12:00 AM,15 Seconds,9,24,408,MP4 / MOV / JPEG,"Located at the Centre Point Shopping Mall building.
+Peak hours: Morning (07:30–10:30), Afternoon (11:30–14:30), and Evening (16:30–18:30).
+Accessible via Jalan Tun Razak, Jalan Coastal, and Jalan Laiman Diki.
+Kota Kinabalu’s major road network connects seamlessly to other towns in Sabah via federal roads and highways.
+Close to major tourist spots and shopping areas.","5.978744, 116.072594", ,,1000000,1 Month,23000,500,Standard,3 Months,32000,500,Offer

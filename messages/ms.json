@@ -1,0 +1,1392 @@
+{
+  "common": {
+    "home": "Utama",
+    "explore": "Jelajah",
+    "browseMedia": "Layari Media",
+    "blog": "Blog",
+    "oohExpert": "Pakar OOH",
+    "services": "Perkhidmatan",
+    "aboutUs": "Tentang Kami",
+    "contact": "Hubungi Kami",
+    "signIn": "Log masuk",
+    "signOut": "Log keluar",
+    "learnMore": "Ketahui Lebih",
+    "getStarted": "Mulakan",
+    "readMore": "Baca Lagi",
+    "viewAll": "Lihat Semua",
+    "back": "Kembali",
+    "send": "Hantar",
+    "loading": "Memuatkan...",
+    "error": "Ralat",
+    "success": "Berjaya",
+    "toggleMenu": "Togol menu",
+    "close": "Tutup"
+  },
+  "nav": {
+    "exploreBillboards": "Jelajah Papan Iklan",
+    "aiPlanner": "Perancang AI",
+    "resources": "Sumber",
+    "aboutUs": "Tentang Kami",
+    "services": "Perkhidmatan"
+  },
+  "home": {
+    "hero": {
+      "badge": "Platform OOH Terkemuka Sabah",
+      "title": "Pasaran Media Luar Terbesar",
+      "titleHighlight": "di Sabah",
+      "description": "Temui, bandingkan, dan tempah lokasi papan iklan premium di Kota Kinabalu, Sandakan, Tawau dan seterusnya.",
+      "popular": "Popular:",
+      "exploreMedia": "Jelajah",
+      "exploreMediaHighlight": "Media",
+      "exploreMediaEnd": "Sekarang",
+      "keyword": "Kata Kunci",
+      "keywordPlaceholder": "cth: Kota Kinabalu, Kuching",
+      "search": "Cari",
+      "browseByMedia": "Layari mengikut Media",
+      "staticBillboard": "Papan Iklan Statik",
+      "digitalScreen": "Skrin Digital",
+      "airportAds": "Iklan Lapangan Terbang",
+      "mobileAds": "Iklan Mudah Alih",
+      "cta": "Jelajah Papan Iklan",
+      "ctaSecondary": "Berbual dengan Pakar AI"
+    },
+    "stats": {
+      "billboards": "Papan Iklan",
+      "locations": "Lokasi",
+      "clients": "Pelanggan Gembira",
+      "impressions": "Paparan Harian"
+    },
+    "features": {
+      "title": "Mengapa Pilih Eastmy Media?",
+      "subtitle": "Kami menyediakan penyelesaian pengiklanan luar yang komprehensif disesuaikan untuk pasaran unik Sabah",
+      "premium": {
+        "title": "Lokasi Premium",
+        "description": "Penempatan papan iklan strategik di kawasan trafik tinggi di seluruh Malaysia Timur"
+      },
+      "ai": {
+        "title": "Perancangan Berkuasa AI",
+        "description": "Dapatkan cadangan peribadi daripada pakar AI kami, Jason"
+      },
+      "analytics": {
+        "title": "Analitik Trafik",
+        "description": "Wawasan berasaskan data mengenai jangkauan dan penglibatan khalayak"
+      },
+      "support": {
+        "title": "Kepakaran Tempatan",
+        "description": "Pemahaman mendalam tentang pasaran dan budaya Sabah"
+      }
+    },
+    "cta": {
+      "title": "Bersedia untuk Menguatkan Jenama Anda?",
+      "description": "Biarkan pakar AI kami membantu anda mencari lokasi papan iklan yang sempurna untuk kempen anda",
+      "button": "Berbual dengan Jason"
+    },
+    "about": {
+      "badge": "SIAPA KAMI",
+      "title": "Rancang. Beli dan Dapatkan",
+      "titleHighlight": "Sabahan",
+      "description1": "Kami adalah platform media luar terkemuka Sabah, menghubungkan jenama dengan lokasi papan iklan premium di Kota Kinabalu, Sandakan, Tawau, dan seterusnya.",
+      "description2": "Dengan alat perancangan berkuasa AI dan rangkaian luas lokasi trafik tinggi, kami membantu anda mencapai khalayak sasaran di tempat yang paling penting. Dari paparan LED digital hingga papan iklan statik tradisional, kami menawarkan penyelesaian komprehensif yang disesuaikan dengan matlamat pemasaran anda.",
+      "strategicTitle": "Lokasi Strategik",
+      "strategicDesc": "Tempat trafik tinggi premium di seluruh daerah utama",
+      "dataDrivenTitle": "Berasaskan Data",
+      "dataDrivenDesc": "Analitik trafik masa nyata dan wawasan khalayak",
+      "expertTitle": "Sokongan Pakar",
+      "expertDesc": "Pasukan akaun khusus untuk membimbing kempen anda",
+      "learnMore": "Ketahui Lebih Lanjut Tentang Kami"
+    },
+    "districts": {
+      "badge": "LIPUTAN KAMI",
+      "title": "Daerah Yang Kami Liputi",
+      "subtitle": "Penempatan media luar strategik di seluruh daerah utama Sabah, mencapai berjuta-juta pelanggan berpotensi setiap bulan.",
+      "locations": "Lokasi",
+      "population": "Populasi",
+      "growth": "Pertumbuhan",
+      "otherDistricts": "Liputan Daerah Lain"
+    },
+    "mediaFormats": {
+      "badge": "FORMAT MEDIA",
+      "title": "Pilih Format Anda",
+      "subtitle": "Dari papan iklan tradisional hingga paparan digital canggih, kami menawarkan pelbagai format media luar untuk memenuhi keperluan kempen anda.",
+      "digitalBillboards": "Papan Iklan Digital",
+      "digitalDesc": "Paparan LED resolusi tinggi dengan putaran kandungan dinamik.",
+      "staticBillboards": "Papan Iklan Statik",
+      "staticDesc": "Pengiklanan luar format besar tradisional dengan keterlihatan maksimum.",
+      "ledDisplays": "Paparan LED",
+      "ledDesc": "Skrin LED yang terang dan menarik perhatian di kawasan trafik tinggi.",
+      "transitMedia": "Media Transit",
+      "transitDesc": "Pengiklanan mudah alih di bas, teksi, dan pengangkutan awam.",
+      "sites": "Tapak",
+      "browseAll": "Layari Semua Format Media"
+    },
+    "process": {
+      "badge": "CARA IA BERFUNGSI",
+      "title": "Proses Mudah Kami",
+      "subtitle": "Dari penemuan hingga pelancaran, kami telah memperkemas pengiklanan luar untuk menjadikannya mudah, telus, dan berkesan.",
+      "step1Title": "Temui Lokasi",
+      "step1Desc": "Layari inventori luas kami lokasi papan iklan premium di seluruh Malaysia Timur. Gunakan peta interaktif dan penapis kami untuk mencari tempat yang sempurna untuk kempen anda.",
+      "step2Title": "Rancang Kempen Anda",
+      "step2Desc": "Manfaatkan alat perancangan berkuasa AI kami untuk mengoptimumkan campuran media anda. Dapatkan wawasan berasaskan data mengenai corak trafik, demografi, dan jangkauan yang dijangkakan.",
+      "step3Title": "Tempah & Sesuaikan",
+      "step3Desc": "Pilih tarikh pilihan anda, muat naik aset kreatif anda, dan sesuaikan butiran kempen anda. Pasukan kami menyemak dan mengesahkan tempahan anda dalam masa 24 jam.",
+      "step4Title": "Lancarkan & Pantau",
+      "step4Desc": "Kempen anda dilancarkan mengikut jadual. Jejaki prestasi dengan analitik masa nyata, lihat bukti paparan, dan ukur impak kempen anda."
+    },
+    "blogSection": {
+      "badge": "WAWASAN & SUMBER",
+      "title": "Terkini dari Blog Kami",
+      "subtitle": "Kekal dikemas kini dengan trend industri, petua, dan wawasan mengenai pengiklanan luar.",
+      "viewAll": "Lihat Semua Artikel",
+      "by": "Oleh",
+      "readMore": "Baca Lagi"
+    },
+    "faq": {
+      "badge": "SOALAN LAZIM",
+      "title": "Soalan Lazim",
+      "subtitle": "Ada soalan? Kami ada jawapan. Cari segala yang anda perlu tahu tentang pengiklanan luar dengan SBH.",
+      "stillHaveQuestions": "Masih ada soalan? Kami di sini untuk membantu!",
+      "contactSupport": "Hubungi Pasukan Sokongan Kami →",
+      "items": [
+        {
+          "question": "Bagaimana cara saya menempah papan iklan dengan Eastmy Media?",
+          "answer": "Tempahan sangat mudah! Layari inventori kami di halaman Jelajah Media atau Layari Media, pilih lokasi dan tarikh pilihan anda, dan hantar permintaan tempahan anda. Pasukan kami akan menyemak dan mengesahkan dalam masa 24 jam. Anda juga boleh menghubungi kami secara langsung untuk bantuan peribadi."
+        },
+        {
+          "question": "Apakah tempoh tempahan minimum?",
+          "answer": "Tempoh tempahan minimum berbeza mengikut jenis media. Papan iklan statik biasanya memerlukan minimum 1 bulan, manakala papan iklan digital boleh ditempah sesingkat 1 minggu. Hubungi kami untuk keperluan khusus lokasi pilihan anda."
+        },
+        {
+          "question": "Bolehkah saya melihat iklan saya sebelum ia tayang?",
+          "answer": "Sudah tentu! Kami menyediakan bukti paparan untuk semua kempen. Untuk papan iklan digital, anda akan menerima pratonton kandungan anda sebelum pelancaran. Untuk papan iklan statik, kami berkongsi foto pemasangan. Anda juga akan mendapat kemas kini berkala sepanjang kempen anda."
+        },
+        {
+          "question": "Format fail apa yang anda terima untuk papan iklan digital?",
+          "answer": "Kami menerima imej resolusi tinggi (JPG, PNG) dan video (MP4, MOV) untuk papan iklan digital. Resolusi yang disyorkan ialah 1920x1080 atau lebih tinggi. Pasukan reka bentuk kami juga boleh membantu mencipta atau mengoptimumkan aset kreatif anda dengan bayaran tambahan."
+        },
+        {
+          "question": "Bagaimana harga papan iklan ditentukan?",
+          "answer": "Harga bergantung kepada beberapa faktor termasuk lokasi, jumlah trafik, saiz papan iklan, jenis media (digital vs statik), dan tempoh kempen. Kawasan trafik tinggi seperti pusat bandar Kota Kinabalu mempunyai kadar premium. Gunakan platform kami untuk mendapatkan sebut harga segera untuk lokasi tertentu."
+        },
+        {
+          "question": "Adakah anda menawarkan analitik prestasi kempen?",
+          "answer": "Ya! Kami menyediakan analitik komprehensif termasuk anggaran paparan, data trafik, dan untuk papan iklan digital, laporan kekerapan tayangan. Wawasan berkuasa AI kami membantu anda memahami jangkauan dan keberkesanan kempen anda."
+        },
+        {
+          "question": "Bolehkah saya menukar kreatif saya semasa kempen?",
+          "answer": "Untuk papan iklan digital, ya! Anda boleh mengemas kini kandungan kreatif anda semasa tempoh kempen tanpa kos tambahan (dalam had yang munasabah). Untuk papan iklan statik, perubahan memerlukan cetakan dan pemasangan baru, yang melibatkan bayaran tambahan."
+        },
+        {
+          "question": "Kaedah pembayaran apa yang anda terima?",
+          "answer": "Kami menerima pemindahan bank, kad kredit, dan perbankan dalam talian. Terma pembayaran berbeza: 50% deposit semasa pengesahan tempahan dan 50% sebelum pelancaran kempen. Untuk kontrak jangka panjang, kami menawarkan pelan pembayaran yang fleksibel."
+        }
+      ]
+    }
+  },
+  "explore": {
+    "title": "Jelajah Papan Iklan",
+    "subtitle": "Cari lokasi pengiklanan luar yang sempurna di Sabah",
+    "filters": {
+      "location": "Lokasi",
+      "type": "Jenis",
+      "price": "Julat Harga",
+      "size": "Saiz",
+      "all": "Semua",
+      "heading": "Penapis",
+      "reset": "Set Semula",
+      "locationLabel": "Lokasi atau Kod",
+      "locationPlaceholder": "cth. Kota Kinabalu",
+      "formatLabel": "Format",
+      "digital": "Digital",
+      "static": "Statik",
+      "led": "LED",
+      "vooh": "VOOH",
+      "priceRangeLabel": "Julat Harga (Bulanan)",
+      "min": "Min",
+      "max": "Maks",
+      "minPlaceholder": "RM 0",
+      "maxPlaceholder": "RM 10,000",
+      "regionLabel": "Kawasan",
+      "kotaKinabalu": "Kota Kinabalu",
+      "sandakan": "Sandakan",
+      "tawau": "Tawau",
+      "highways": "Lebuh Raya",
+      "malls": "Pusat Membeli-belah",
+      "availabilityLabel": "Ketersediaan",
+      "availableNow": "Tersedia Sekarang",
+      "applyFilters": "Guna Penapis"
+    },
+    "sort": {
+      "label": "Susun mengikut",
+      "newest": "Terbaru",
+      "priceAsc": "Harga: Rendah ke Tinggi",
+      "priceDesc": "Harga: Tinggi ke Rendah",
+      "popular": "Paling Popular"
+    },
+    "results": "papan iklan dijumpai",
+    "noResults": "Tiada papan iklan dijumpai mengikut kriteria anda"
+  },
+  "billboard": {
+    "details": "Butiran Papan Iklan",
+    "location": "Lokasi",
+    "size": "Saiz",
+    "type": "Jenis",
+    "facing": "Menghadap",
+    "traffic": "Trafik",
+    "price": "Harga",
+    "perMonth": "/bulan",
+    "availability": "Ketersediaan",
+    "available": "Tersedia",
+    "booked": "Ditempah",
+    "specifications": "Spesifikasi",
+    "inquire": "Tanya Sekarang",
+    "similar": "Papan Iklan Serupa",
+    "mediaInfo": "Maklumat Media",
+    "mediaPanel": "Panel Media",
+    "displaySize": "Saiz Paparan (kaki)",
+    "resolution": "Resolusi (px)",
+    "gpsCoordinate": "Koordinat GPS",
+    "trafficVolume": "Isipadu Trafik",
+    "mediaAvailability": "Ketersediaan Media",
+    "targetMarket": "Pasaran Sasaran",
+    "description": "Penerangan",
+    "specification": "Spesifikasi",
+    "downloadPricing": "Muat Turun Harga",
+    "share": "Kongsi",
+    "nearbyMedia": "Media Berdekatan",
+    "viewDetails": "Lihat Butiran",
+    "startingFrom": "Bermula dari",
+    "advertisingSpace": "Ruang Pengiklanan Untuk Disewa di",
+    "mapView": "Paparan Peta",
+    "screen": "Skrin",
+    "descriptionText": "Terletak di {location}, di persimpangan lalu lintas dengan keterlihatan tinggi. Arah dari Pusat Bandar menuju ke kawasan kediaman dan komersial utama.",
+    "specs": {
+      "operatingTime": "MASA OPERASI:",
+      "durationPerAd": "TEMPOH SETIAP IKLAN:",
+      "noOfAdvertisers": "BILANGAN PENGIKLAN:",
+      "loopsPerHour": "GELUNG SEJAM:",
+      "minLoopsPerDay": "MIN GELUNG SEHARI:",
+      "duration": "Tempoh setiap Gelung: 2.5 minit / 150 saat",
+      "slots": "Slot: 10 Poket (15saat/poket)",
+      "fileFormat": "Format Fail: Gambar Statik [JPEG] | Video [AVI / MP4]",
+      "distance1": "650m ke Centre Point Sabah",
+      "distance2": "1.2km ke Pasar Besar Kota Kinabalu",
+      "distance3": "2.0km ke Terminal Feri Jesselton Point"
+    },
+    "subjectToAvailability": "Tertakluk kepada Ketersediaan"
+  },
+  "oohExpert": {
+    "title": "Jason - Pakar OOH",
+    "greeting": "Hai, saya Jason!",
+    "intro": "Saya pakar OOH khusus untuk Sabah. Beritahu saya tentang jenama, bajet, dan matlamat anda – saya akan mencadangkan lokasi papan iklan yang sempurna dan menunjukkan promosi yang ada.",
+    "placeholder": "Mesej Jason...",
+    "disclaimer": "Jason boleh membuat kesilapan. Pertimbangkan untuk menyemak maklumat penting.",
+    "signInPrompt": "Log masuk untuk menyimpan sejarah perbualan anda.",
+    "suggestions": {
+      "recommend": {
+        "title": "Cadangkan lokasi",
+        "subtitle": "untuk jenama dan khalayak sasaran saya"
+      },
+      "optimize": {
+        "title": "Optimumkan bajet saya",
+        "subtitle": "cadangkan papan iklan bernilai terbaik untuk kempen saya"
+      },
+      "compare": {
+        "title": "Bandingkan pilihan papan iklan",
+        "subtitle": "bantu saya memilih antara lokasi yang ada"
+      },
+      "promotions": {
+        "title": "Tunjukkan promosi",
+        "subtitle": "apakah tawaran yang ada sekarang?"
+      }
+    },
+    "sidebar": {
+      "chatHistory": "Sejarah Perbualan",
+      "newChat": "Perbualan Baru",
+      "noHistory": "Tiada sejarah perbualan"
+    }
+  },
+  "blog": {
+    "title": "Panduan Pakar & Wawasan Industri",
+    "subtitle": "Temui trend terkini, strategi, dan kisah kejayaan untuk membantu anda menguasai pengiklanan Luar Rumah di Sabah.",
+    "badge": "Wawasan & Sumber",
+    "backToBlog": "Kembali ke Blog",
+    "minRead": "min baca",
+    "readMore": "Baca Lagi",
+    "posts": {
+      "guide2025": {
+        "title": "Panduan Lengkap Pengiklanan Luar di Sabah (Edisi 2025)",
+        "excerpt": "Semua yang anda perlu tahu tentang pengiklanan papan iklan di Sabah—dari lokasi berimpak tinggi dan harga hingga perancangan berkuasa AI dan strategi budaya untuk kejayaan kempen maksimum.",
+        "date": "20 Nov 2025",
+        "readTime": "12 min baca",
+        "author": "Eastmy Media",
+        "category": "Panduan",
+        "content": {
+          "introduction": {
+            "title": "Pengenalan",
+            "text": "Pengiklanan luar di Sabah telah berkembang pesat sepanjang dekad yang lalu apabila jenama bersaing untuk keterlihatan dalam pasaran yang pelbagai budaya dengan trafik mudah alih yang tinggi dan landskap geografi yang unik. Sama ada mempromosikan runcit, pelancongan, FMCG, atau kempen kerajaan, Sabah menawarkan persekitaran dinamik untuk pendedahan OOH (Luar Rumah). Dengan hab bandar utama seperti Kota Kinabalu, Sandakan, dan Tawau — serta lebuh raya luar bandar dengan pergerakan kenderaan yang kukuh — peluang untuk mencapai khalayak Sabah adalah sangat besar. Panduan ini menerangkan bagaimana OOH berfungsi di Sabah, mengapa ia berprestasi berbeza daripada negeri lain, dan bagaimana jenama boleh memanfaatkannya untuk impak maksimum."
+          },
+          "marketLandscape": {
+            "title": "Memahami Landskap Pasaran Sabah",
+            "text": "Sabah menonjol kerana komuniti pelbagai etnik, budaya pelbagai bahasa, dan corak gaya hidup yang pelbagai. Tidak seperti Kuala Lumpur di mana trafik padat dan boleh diramal, aliran trafik Sabah berbeza berdasarkan musim pelancongan, susun atur perbandaran, dan perdagangan berasaskan komuniti. Jenama yang berjaya di sini sering memberi tumpuan kepada hubungan emosi, nada budaya, dan komunikasi yang boleh dikaitkan.",
+            "tip": "Iklan OOH yang terasa mesra, tempatan, dan dipacu Sabah cenderung menarik lebih banyak perhatian. Menggunakan slanga Sabah, humor, atau imejan boleh meningkatkan ingatan dan penglibatan dengan ketara."
+          },
+          "billboardTypes": {
+            "title": "Jenis Papan Iklan & Format OOH di Sabah",
+            "intro": "Sabah menawarkan pelbagai format media luar yang sesuai untuk pelbagai objektif pemasaran:",
+            "types": [
+              {
+                "name": "Papan Iklan Statik (Paling Biasa)",
+                "description": "Ditemui di sepanjang jalan utama, lebuh raya, dan pintu masuk bandar. Sesuai untuk keterlihatan jenama yang konsisten."
+              },
+              {
+                "name": "Papan Iklan Digital (LED)",
+                "description": "Berkembang terutamanya di kawasan bandar Kota Kinabalu. Membolehkan visual animasi dan kandungan berputar."
+              },
+              {
+                "name": "Unipol",
+                "description": "Struktur besar dan berimpak tinggi biasanya terletak di sepanjang lebuh raya atau jalan jarak jauh."
+              },
+              {
+                "name": "Balutan Bangunan",
+                "description": "Sempurna untuk kawasan komersial yang sesak; memberikan impak visual yang besar."
+              },
+              {
+                "name": "Skrin LED",
+                "description": "Kurang meluas berbanding Lembah Klang, tetapi masih bernilai di KK, Putatan, dan Penampang."
+              }
+            ]
+          },
+          "locations": {
+            "title": "Lokasi OOH Berimpak Tinggi di Sabah",
+            "kk": {
+              "title": "Kota Kinabalu (KK) — Hab Strategik No.1",
+              "description": "KK menggabungkan pelancongan, daerah perniagaan, dan trafik tempatan yang tinggi. Zon berprestasi tinggi termasuk:",
+              "zones": [
+                "Pusat Bandar KK",
+                "Lintas",
+                "Damai",
+                "Luyang",
+                "Penampang",
+                "Putatan"
+              ]
+            },
+            "sandakan": {
+              "title": "Sandakan",
+              "description": "Kukuh di sepanjang jalan lingkaran dan pintu masuk bandar utama — sesuai untuk FMCG dan kempen awam."
+            },
+            "tawau": {
+              "title": "Tawau",
+              "description": "Berkesan untuk pertanian, pasaran industri, dan segmen pengguna rentas sempadan."
+            },
+            "highways": {
+              "title": "Lebuh Raya Utama",
+              "description": "Laluan seperti KK–Beaufort dan Tuaran–Kudat menawarkan pendedahan jenama jarak jauh yang cemerlang."
+            }
+          },
+          "effectiveness": {
+            "title": "Mengapa Pengiklanan Luar di Sabah Sangat Berkesan",
+            "intro": "OOH di Sabah berprestasi sangat baik kerana:",
+            "reasons": [
+              "Keterlihatan tinggi",
+              "Trafik harian yang stabil",
+              "Bunyi digital yang lebih rendah berbanding kawasan metropolitan",
+              "Masa lebih lama dihabiskan di jalan raya",
+              "Mulut ke mulut berasaskan komuniti yang kuat"
+            ],
+            "conclusion": "Papan iklan yang menarik sering menjadi topik perbualan di kalangan penduduk tempatan. OOH sangat berkesan untuk kesedaran jenama, arah runcit, promosi pelancongan, acara, dan mesej kerajaan."
+          },
+          "costBudgeting": {
+            "title": "Kos & Belanjawan untuk Pengiklanan Papan Iklan di Sabah",
+            "intro": "Harga berbeza berdasarkan:",
+            "factors": [
+              "Lokasi (kawasan bandar utama vs pinggir bandar/luar bandar)",
+              "Saiz dan format",
+              "Isipadu trafik",
+              "Kemasukan pencahayaan",
+              "Jenis struktur (statik, unipol, LED, balutan)"
+            ],
+            "details": [
+              "Papan iklan pusat bandar lebih mahal kerana pendedahan tinggi.",
+              "Unipol adalah premium kerana saiz dan keterlihatan jarak jauhnya.",
+              "Papan pinggir bandar atau luar bandar lebih berpatutan dan bagus untuk penjenamaan jangka panjang."
+            ],
+            "tip": "Jenama sering menggabungkan beberapa papan di seluruh KK, Sandakan, Tawau, dan daerah utara/selatan untuk liputan wilayah penuh."
+          },
+          "campaignPlanning": {
+            "title": "Cara Merancang Kempen OOH yang Berkesan di Sabah",
+            "intro": "Untuk berjaya, anda perlu memahami:",
+            "steps": [
+              {
+                "title": "Khalayak Sasaran Anda",
+                "description": "Pelancong, pengguna harian, keluarga, pemilik perniagaan, atau komuniti luar bandar."
+              },
+              {
+                "title": "Laluan trafik tinggi",
+                "description": "Kenal pasti kawasan dengan corak pergerakan yang konsisten."
+              },
+              {
+                "title": "Format yang betul",
+                "description": "Statik, unipol, LED, balutan bangunan, atau papan tanda arah."
+              },
+              {
+                "title": "Reka bentuk kreatif yang kuat",
+                "description": "Gunakan warna berani, teks pendek, dan elemen yang relevan dengan budaya. Reka bentuk mesra Sabah berprestasi jauh lebih baik."
+              }
+            ]
+          },
+          "aiRole": {
+            "title": "Peranan AI dalam Pengiklanan OOH Moden",
+            "intro": "AI sedang mengubah pengiklanan luar di Malaysia Timur.",
+            "description": "Menggunakan alat berkuasa AI seperti platform Eastmy Media, jenama boleh:",
+            "benefits": [
+              "Menganalisis data trafik",
+              "Memahami tingkah laku khalayak",
+              "Meramalkan prestasi lokasi",
+              "Memadankan tapak papan iklan dengan industri tertentu",
+              "Mengurangkan pembaziran media",
+              "Mengoptimumkan belanjawan dengan cadangan berasaskan data"
+            ],
+            "conclusion": "Apabila AI berkembang, perancangan OOH akan menjadi lebih tepat dan fokus kepada ROI."
+          },
+          "conclusion": {
+            "title": "Kesimpulan",
+            "text": "Landskap OOH Sabah membentangkan peluang besar untuk jenama yang bertujuan membina kehadiran wilayah yang kukuh. Dengan pilihan lokasi strategik, reka bentuk kreatif yang selaras dengan budaya, dan alat perancangan berkuasa AI, prestasi kempen boleh meningkat secara dramatik. Apabila pasaran terus berkembang, pengiklanan luar kekal sebagai salah satu saluran pemasaran Sabah yang paling dipercayai dan berimpak — menawarkan keterlihatan dunia sebenar yang tidak dapat ditandingi oleh media digital sahaja."
+          }
+        }
+      },
+      "whyBillboards": {
+        "title": "Mengapa Pengiklanan Papan Iklan Masih Berkesan di 2025: Perspektif Sabah",
+        "excerpt": "Walaupun pemasaran digital meningkat, papan iklan terus mendominasi sebagai medium pengiklanan yang berkuasa. Temui mengapa OOH kekal penting untuk keterlihatan jenama, membina kepercayaan, dan impak tempatan di Sabah.",
+        "date": "20 Nov 2025",
+        "readTime": "10 min baca",
+        "author": "Eastmy Media",
+        "category": "Wawasan Industri",
+        "content": {
+          "introduction": {
+            "title": "Pengenalan",
+            "text": "Dalam dunia yang didominasi oleh skrin digital dan media sosial, ramai orang menganggap pengiklanan tradisional — terutamanya papan iklan — kehilangan relevan. Tetapi di Sabah, sebaliknya berlaku. Pengiklanan papan iklan terus menjadi salah satu saluran pemasaran yang paling kuat, boleh dipercayai, dan kos efektif untuk jenama. Dengan mobiliti tinggi, budaya komuniti yang kuat, dan trafik harian yang besar di jalan utama, papan iklan kekal sebagai cara yang berkuasa untuk menarik perhatian dunia sebenar pada 2025."
+          },
+          "visibility": {
+            "title": "Papan Iklan Memberikan Keterlihatan Terjamin",
+            "text": "Satu sebab utama papan iklan berprestasi baik di Sabah adalah mudah: orang sentiasa di jalan raya. Dari Kota Kinabalu ke Sandakan ke Tawau, beribu-ribu pengguna, pelancong, dan keluarga tempatan melalui jalan utama setiap hari. Tidak seperti iklan digital yang boleh dilangkau, diabaikan, atau disekat, pendedahan papan iklan adalah terjamin — setiap pemandu dan penumpang melihatnya.",
+            "highlight": "Di kawasan trafik tinggi seperti Lintas, Penampang, Putatan, Pusat Bandar KK, dan Batu 5 Sandakan, satu papan iklan boleh menjana berpuluh-puluh ribu paparan setiap hari."
+          },
+          "roadStructure": {
+            "title": "Struktur Jalan Sabah Menjadikan OOH Lebih Berkesan",
+            "intro": "Susun atur bandar dan lebuh raya jarak jauh Sabah mencipta saluran semula jadi di mana papan iklan lebih menonjol. Contohnya:",
+            "examples": [
+              "Jalan Lingkaran Luar KK secara semula jadi menyalurkan aliran kenderaan berterusan",
+              "Jalan Lingkaran Sandakan memberikan pengiklan keterlihatan yang diperpanjang",
+              "Koridor komersial utama Tawau menangkap pembeli perniagaan dan rentas sempadan",
+              "Laluan panjang seperti KK–Beaufort atau Tamparuli–Kudat memberikan jenama masa tontonan yang diperpanjang"
+            ],
+            "conclusion": "Kerana corak jalan ini, papan iklan mengekalkan perhatian lebih lama daripada di bandar yang padat waktu puncak seperti KL."
+          },
+          "culturalConnection": {
+            "title": "Hubungan Budaya Meningkatkan Impak Iklan",
+            "text": "Orang Sabah suka perkara yang terasa biasa, mesra, dan tempatan. Papan iklan dengan nada Sabah, humor tempatan, atau visual yang relevan dengan budaya sering berprestasi lebih baik kerana terasa lebih boleh dikaitkan. Apabila iklan bergema secara emosi, orang mengingatnya lebih lama.",
+            "examples": [
+              "Frasa pendek dalam slanga Sabah",
+              "Visual yang menunjukkan pemandangan atau gaya hidup tempatan",
+              "Warna terang dan susun atur berani",
+              "Mesej mesra berasaskan komuniti"
+            ],
+            "conclusion": "Hubungan emosi ini memberikan papan iklan kelebihan semula jadi berbanding iklan digital generik seluruh negara."
+          },
+          "trustAuthority": {
+            "title": "Papan Iklan Membina Kepercayaan dan Autoriti Jenama",
+            "text": "Di Sabah, orang mempercayai jenama yang sering mereka lihat — terutamanya yang muncul secara konsisten di lokasi trafik tinggi yang sama. Papan iklan bertindak seperti cap kredibiliti fizikal. Apabila pelanggan berulang kali melalui papan iklan anda, jenama anda menjadi biasa dan boleh dipercayai.",
+            "industries": [
+              "Kedai runcit",
+              "Pemaju hartanah",
+              "Jenama FMCG",
+              "Klinik dan perkhidmatan kesihatan",
+              "Restoran dan kafe",
+              "Operator pelancongan"
+            ],
+            "highlight": "Lokasi pendedahan tinggi seperti Bandar KK, Donggongon, Inanam, dan Sandakan Mile 4 boleh mewujudkan autoriti jenama dengan cepat."
+          },
+          "viewingTime": {
+            "title": "Masa Tontonan Lebih Lama = Ingatan Lebih Tinggi",
+            "comparison": "Iklan digital bertahan beberapa saat. Papan iklan bertahan berminggu-minggu atau berbulan-bulan, kekal kelihatan siang dan malam.",
+            "text": "Pendedahan panjang ini memberikan pelanggan banyak masa untuk menyerap mesej. Di Sabah — di mana trafik mungkin bergerak lebih perlahan dan laluan panjang — tempoh tontonan menjadi lebih bernilai. Jenama mendapat kadar ingatan tinggi hanya dengan hadir di sepanjang laluan perjalanan utama."
+          },
+          "tourists": {
+            "title": "Sempurna untuk Pelancong dan Khalayak Tempatan",
+            "intro": "Sektor pelancongan Sabah menjadikan papan iklan lebih berkesan. Pelawat dari Malaysia Barat, Singapura, China, Korea, dan Eropah sering bergantung pada petunjuk visual dan iklan arah. Papan iklan membantu mereka:",
+            "benefits": [
+              "Menemui tarikan",
+              "Mencari restoran",
+              "Menemui hotel",
+              "Mengenal pasti kedai runcit",
+              "Belajar tentang produk tempatan"
+            ],
+            "conclusion": "Sementara itu, penduduk tempatan yang berulang-alik setiap hari juga menyerap mesej jenama yang sama, memberikan kempen impak berganda."
+          },
+          "costEffective": {
+            "title": "Kos Efektif untuk Kempen Pendek dan Panjang",
+            "intro": "Papan iklan di Sabah secara amnya lebih murah daripada bandar utama seperti KL atau Pulau Pinang — tetapi memberikan keterlihatan yang sama kuat (atau lebih kuat). Ini mencipta nilai cemerlang untuk:",
+            "uses": [
+              "Promosi jangka pendek (perayaan, jualan, pelancaran)",
+              "Penjenamaan jangka panjang (3–12 bulan)",
+              "Kempen pelancongan bermusim",
+              "Kempen kesedaran keselamatan jalan raya atau kerajaan"
+            ],
+            "tip": "Papan iklan luar bandar atau pinggir bandar lebih berpatutan dan sering kekal kurang sesak, menjadikannya sempurna untuk liputan jangka panjang."
+          },
+          "aiPlanning": {
+            "title": "Rangsangan daripada Perancangan OOH Dipertingkat AI",
+            "intro": "Pada 2025, teknologi AI sedang mengubah cara perniagaan merancang kempen papan iklan. Platform seperti sistem AI Eastmy Media membantu pengiklan:",
+            "benefits": [
+              "Menganalisis aliran trafik dan waktu puncak",
+              "Mengenal pasti demografi khalayak di sekitar setiap papan iklan",
+              "Meramalkan lokasi terbaik untuk industri tertentu",
+              "Menganggarkan nilai paparan",
+              "Mengelakkan penempatan berprestasi rendah",
+              "Memaksimumkan ROI melalui cadangan berasaskan data"
+            ],
+            "conclusion": "AI memastikan setiap ringgit papan iklan dilaburkan dengan bijak — dengan hasil yang jelas."
+          },
+          "conclusion": {
+            "title": "Kesimpulan",
+            "text": "Papan iklan kekal sebagai salah satu alat pemasaran paling berkesan di Sabah untuk 2025 dan seterusnya. Dengan keterlihatan yang kuat, relevan budaya tempatan, trafik terjamin, dan kelebihan baru perancangan AI, pengiklanan luar terus mengatasi banyak saluran digital. Bagi perniagaan yang berharap untuk mengembangkan kesedaran jenama di seluruh Malaysia Timur, pengiklanan papan iklan kekal sebagai strategi yang berkuasa dan boleh dipercayai yang memberikan impak sebenar dan boleh diukur."
+          }
+        }
+      },
+      "chooseBillboardLocation": {
+        "title": "Lokasi Papan Iklan Strategik Teratas di Sabah (Panduan 2025)",
+        "excerpt": "Temui lokasi papan iklan terbaik di Sabah untuk 2025. Dari Pusat Bandar KK hingga Jalan Lingkaran Sandakan, ketahui di mana untuk meletakkan iklan luar anda untuk trafik, keterlihatan, dan ROI maksimum.",
+        "date": "21 Nov 2025",
+        "readTime": "12 min baca",
+        "author": "Eastmy Media",
+        "category": "Panduan Lokasi",
+        "content": {
+          "introduction": {
+            "title": "Pengenalan",
+            "text": "Memilih lokasi papan iklan yang betul boleh menentukan sama ada kempen anda menjadi kejayaan besar atau tidak diperhatikan. Di Sabah — di mana setiap bandar mempunyai corak trafik, tabiat budaya, dan tingkah laku pengguna yang unik — pemilihan lokasi adalah lebih penting. Panduan ini menyerlahkan lokasi papan iklan strategik teratas di Sabah untuk 2025, berdasarkan aliran trafik, jenis khalayak, dan aktiviti komersial."
+          },
+          "kkCityCentre": {
+            "title": "1. Pusat Bandar Kota Kinabalu",
+            "bestFor": "Terbaik untuk: Pelancongan, runcit, F&B, autoriti jenama",
+            "text": "Pusat Bandar KK kekal sebagai zon paling berkuasa untuk pendedahan papan iklan di Sabah. Ia melayani pelancong, pekerja pejabat, pembeli, dan pengguna harian — menawarkan pergerakan berterusan dari pagi hingga malam.",
+            "spotsTitle": "Tempat berimpak tinggi termasuk:",
+            "spots": [
+              "Jalan Gaya",
+              "KK Waterfront",
+              "Asia City",
+              "Segama & Bandaran Berjaya",
+              "Persekitaran Wisma Merdeka & Suria Sabah"
+            ],
+            "conclusion": "Kempen yang diletakkan di sini mendapat manfaat daripada trafik kenderaan dan pejalan kaki, menjadikan lokasi ini sempurna untuk jenama yang menyasarkan keterlihatan massa."
+          },
+          "lintasLuyang": {
+            "title": "2. Lintas & Luyang",
+            "bestFor": "Terbaik untuk: FMCG, gaya hidup, perkhidmatan rumah, klinik",
+            "text": "Lintas adalah salah satu koridor kediaman-komersial paling sibuk di KK. Aliran trafik sangat konsisten, terutamanya semasa waktu puncak.",
+            "spotsTitle": "Zon yang terkenal:",
+            "spots": [
+              "Lintas Plaza",
+              "Luyang Commercial",
+              "Lebuh Raya Lintas ke arah Kolombong"
+            ],
+            "conclusion": "Dengan jarak tontonan yang panjang dan demografi khalayak yang pelbagai, kawasan ini memberikan jangkauan cemerlang untuk jenama pengguna harian."
+          },
+          "penampangDonggongon": {
+            "title": "3. Penampang & Donggongon",
+            "bestFor": "Terbaik untuk: Perniagaan tempatan, hartanah, automotif, kedai runcit",
+            "text": "Penampang adalah hab budaya dan perbandaran yang berkembang pesat. Jumlah trafik di sini ditingkatkan oleh taman perumahan, sekolah, kawasan membeli-belah, dan zon pejabat.",
+            "spotsTitle": "Titik berprestasi tinggi:",
+            "spots": [
+              "Bandar Donggongon",
+              "Kepayan Ridge",
+              "Lebuh Raya Penampang Lama"
+            ],
+            "conclusion": "Budaya berasaskan komuniti menjadikan kawasan ini ideal untuk penjenamaan promosi dan jangka panjang."
+          },
+          "putatanLokKawi": {
+            "title": "4. Putatan & Lok Kawi",
+            "bestFor": "Terbaik untuk: Runcit, telco, F&B, penjenamaan frekuensi tinggi",
+            "text": "Putatan kekal sebagai salah satu pintu masuk selatan yang paling sibuk ke KK. Sesiapa yang mengembara dari Papar, Lok Kawi, atau Kinarut mesti melalui koridor ini.",
+            "spotsTitle": "Laluan papan iklan utama:",
+            "spots": [
+              "Lebuh Raya Putatan",
+              "Berhampiran Giant Putatan",
+              "Jalan bandar Lok Kawi"
+            ],
+            "conclusion": "Lokasi ini berfungsi sangat baik untuk jenama yang menyasarkan keluarga dan pengguna harian."
+          },
+          "sandakanRingRoad": {
+            "title": "5. Jalan Lingkaran Sandakan",
+            "bestFor": "Terbaik untuk: FMCG, kempen kerajaan, kesedaran komuniti",
+            "text": "Jalan lingkaran Sandakan adalah salah satu koridor OOH paling penting di luar KK. Laluan penyambung yang panjang dan aliran kenderaan yang stabil memberikan pendedahan yang luar biasa.",
+            "spotsTitle": "Tempat strategik termasuk:",
+            "spots": [
+              "Mile 4 Commercial",
+              "Kawasan Giant Sandakan",
+              "Jalan Utara & Bandar Indah"
+            ],
+            "conclusion": "Jenama yang memerlukan jangkauan luas merentasi populasi Sandakan secara konsisten memilih kawasan ini."
+          },
+          "tawauCorridor": {
+            "title": "6. Bandar Tawau & Koridor Komersial",
+            "bestFor": "Terbaik untuk: Pertanian, industri, runcit, pasaran pengguna rentas sempadan",
+            "text": "Koridor komersial Tawau — dari Jalan Apas ke Jalan Kuhara — menawarkan beberapa keterlihatan papan iklan terkuat di Sabah kerana industri dan aktiviti perniagaan yang pelbagai.",
+            "spotsTitle": "Kawasan papan iklan utama:",
+            "spots": [
+              "Pusat bandar Tawau",
+              "Fajar Complex",
+              "Jalan Kuhara",
+              "Jalan Apas (laluan lapangan terbang)"
+            ],
+            "conclusion": "Khalayak yang pelbagai menjadikan kawasan ini ideal untuk produk yang menyasarkan pekerja, keluarga, dan pembeli rentas sempadan."
+          },
+          "majorHighways": {
+            "title": "7. Lebuh Raya Utama (KK–Beaufort, Tuaran–Kudat, Laluan Pedalaman KK)",
+            "bestFor": "Terbaik untuk: Pembinaan jenama, produk gaya hidup, pelancongan, kempen jangka panjang",
+            "text": "Lebuh raya jarak jauh Sabah memberikan jenama masa pendedahan yang diperpanjang. Pemandu sering melihat papan iklan yang sama selama beberapa saat, meningkatkan pengekalan mesej.",
+            "spotsTitle": "Sorotan lebuh raya:",
+            "spots": [
+              "Jalan KK–Beaufort",
+              "Laluan Tuaran–Kota Belud–Kudat",
+              "Jalan Tamparuli–Ranau (banyak pelancong)",
+              "Laluan pedalaman KK–Tambunan"
+            ],
+            "conclusion": "Sempurna untuk jenama gaya hidup, automotif, telco, dan mesej pelancongan."
+          },
+          "airportRoutes": {
+            "title": "8. Laluan Lapangan Terbang (KKIA & Lapangan Terbang Tawau)",
+            "bestFor": "Terbaik untuk: Pelancongan, hartanah, mewah, hospitaliti",
+            "text": "Papan iklan yang diletakkan berhampiran laluan lapangan terbang menyasarkan pelancong, profesional perniagaan, dan pelawat yang memasuki Sabah. Lokasi ini memberikan kesan pertama berimpak tinggi, kedudukan jenama premium, dan keterlihatan kuat semasa trafik lapangan terbang yang bergerak perlahan.",
+            "conclusion": "Terutamanya berkesan untuk hotel, pemaju, syarikat penerbangan, dan kempen pelancongan."
+          },
+          "aiHelps": {
+            "title": "Bagaimana AI Membantu Memilih Lokasi Terbaik",
+            "text": "Dengan teknologi AI yang diintegrasikan ke dalam platform Eastmy Media, pengiklan kini boleh menganalisis corak trafik, jenis khalayak (keluarga, pelancong, pekerja, pelajar, dll.), masa pergerakan puncak, aktiviti komersial sekitar, anggaran paparan, dan kejayaan kempen sejarah. Ini memastikan pengiklan memilih lokasi dengan ROI maksimum, bukan hanya tanda harga tinggi."
+          },
+          "conclusion": {
+            "title": "Kesimpulan",
+            "text": "Lokasi papan iklan terbaik di Sabah menawarkan gabungan trafik tinggi, penempatan perbandaran strategik, dan aktiviti komersial yang kuat. Sama ada jenama anda menyasarkan pelancong, keluarga, pengguna bandar, atau pasaran industri, Sabah menyediakan rangkaian pilihan OOH yang berkuasa. Dengan lokasi yang betul — disokong oleh perancangan dipacu AI — kempen anda boleh mencapai jangkauan dan pengiktirafan yang luar biasa di seluruh negeri."
+          }
+        }
+      },
+      "chooseRightBillboard": {
+        "title": "Cara Memilih Papan Iklan yang Tepat untuk Jenama Anda di Sabah (Panduan 2025)",
+        "excerpt": "Ketahui cara memilih jenis, format, dan penempatan papan iklan yang sempurna untuk jenama anda di Sabah. Dari objektif kempen hingga perancangan berkuasa AI, panduan ini merangkumi semua yang anda perlukan untuk kejayaan pengiklanan luar.",
+        "date": "21 Nov 2025",
+        "readTime": "11 min baca",
+        "author": "Eastmy Media",
+        "category": "Panduan Strategi",
+        "content": {
+          "introduction": {
+            "title": "Pengenalan",
+            "text": "Pengiklanan papan iklan di Sabah menawarkan potensi yang besar — tetapi memilih jenis atau lokasi yang salah boleh membazirkan bajet anda. Dengan tingkah laku khalayak, corak trafik, dan budaya tempatan yang berbeza di seluruh Malaysia Timur, memilih papan iklan yang betul memerlukan pemikiran strategik. Panduan ini memudahkan proses supaya anda boleh memilih format dan penempatan papan iklan yang sempurna untuk jenama anda pada 2025."
+          },
+          "defineObjective": {
+            "title": "1. Tentukan Objektif Kempen Anda Terlebih Dahulu",
+            "text": "Sebelum memilih papan iklan, sentiasa bertanya: Adakah saya mahukan kesedaran jenama? Adakah saya mahu mempromosikan promosi atau acara? Adakah saya memerlukan papan tanda arah? Adakah saya mahukan penjenamaan jangka panjang? Objektif anda menentukan gaya, saiz, dan penempatan.",
+            "examplesTitle": "Contoh:",
+            "examples": [
+              "Untuk autoriti jenama jangka panjang → unipol lebuh raya atau papan statik besar",
+              "Untuk acara/promosi → papan iklan kawasan bandar dengan trafik harian yang padat",
+              "Untuk pelancong → laluan lapangan terbang, pemanduan pantai, tempat bandar KK"
+            ],
+            "conclusion": "Tanpa objektif yang jelas, anda mungkin memilih papan yang tidak sesuai dengan matlamat kempen anda."
+          },
+          "targetAudience": {
+            "title": "2. Kenali Khalayak Sasaran Anda di Sabah",
+            "text": "Khalayak Sabah adalah pelbagai. Wilayah yang berbeza mempunyai corak pergerakan dan gaya hidup yang berbeza.",
+            "urbanTitle": "Jika sasaran anda adalah pengguna bandar:",
+            "urbanText": "Pilih zon komersial trafik tinggi:",
+            "urbanSpots": [
+              "Lintas",
+              "Penampang",
+              "Damai-Luyang",
+              "Pusat Bandar KK"
+            ],
+            "familiesTitle": "Jika sasaran anda adalah keluarga dan pelajar:",
+            "familiesText": "Fokus pada koridor pinggir bandar atau kediaman seperti:",
+            "familiesSpots": [
+              "Putatan",
+              "Inanam",
+              "Menggatal",
+              "Kinarut"
+            ],
+            "touristsTitle": "Jika sasaran anda adalah pelancong:",
+            "touristsText": "Tempat teratas termasuk:",
+            "touristsSpots": [
+              "Jalan lapangan terbang KKIA",
+              "Laluan Tanjung Aru–KK",
+              "Laluan pelancongan Kundasang–Ranau"
+            ],
+            "businessTitle": "Jika sasaran anda adalah pasaran perniagaan atau industri:",
+            "businessText": "Kawasan terbaik:",
+            "businessSpots": [
+              "Kolombong",
+              "Koridor komersial Tawau",
+              "Zon perindustrian Sandakan"
+            ],
+            "conclusion": "Memahami khalayak anda memastikan mesej anda muncul di tempat yang betul."
+          },
+          "billboardFormat": {
+            "title": "3. Pilih Format Papan Iklan yang Sesuai dengan Mesej Anda",
+            "text": "Sabah menawarkan beberapa format OOH. Setiap satu mempunyai kekuatannya.",
+            "staticTitle": "Papan Iklan Statik (Paling Biasa di Sabah)",
+            "staticText": "Terbaik untuk penjenamaan jangka panjang. Stabil, sangat kelihatan, dan kos efektif.",
+            "unipolesTitle": "Unipol (Lebuh Raya & Laluan Utama)",
+            "unipolesText": "Saiz besar = impak visual yang besar. Sempurna untuk jenama gaya hidup, telco, automotif, dan mesej kerajaan.",
+            "digitalTitle": "Skrin LED Digital (KK & Bandar Utama)",
+            "digitalText": "Iklan berputar, animasi, dan fleksibiliti tinggi. Baik untuk F&B, pelancaran filem, promosi jangka pendek, dan pengumuman pelancongan.",
+            "wrapsTitle": "Balutan Bangunan",
+            "wrapsText": "Liputan seluruh bangunan di kawasan bandar KK. Impak premium untuk pemaju, jenama mewah, dan kempen berskala besar.",
+            "conclusion": "Setiap format melayani keperluan yang berbeza — pilih berdasarkan kejelasan dan keterlihatan."
+          },
+          "trafficFlow": {
+            "title": "4. Pertimbangkan Aliran Trafik & Masa Tontonan",
+            "text": "Papan iklan yang baik bukan hanya tentang lokasi — ia tentang berapa lama orang melihatnya.",
+            "areasTitle": "Kawasan masa tontonan tinggi:",
+            "areas": [
+              "Lampu isyarat",
+              "Bulatan",
+              "Persimpangan T",
+              "Jalan bandar yang bergerak perlahan"
+            ],
+            "examplesTitle": "Contoh di KK di mana masa tontonan adalah kuat:",
+            "examples": [
+              "Sadong Jaya",
+              "Persimpangan Damai",
+              "Lampu isyarat lebuh raya Kepayan",
+              "Persimpangan Lintas–Jalan Bundusan"
+            ],
+            "conclusion": "Tontonan lebih lama = pengekalan mesej lebih tinggi."
+          },
+          "readability": {
+            "title": "5. Utamakan Kebolehbacaan & Impak Kreatif",
+            "text": "Papan iklan anda mesti berkomunikasi dalam 2–4 saat. Ikuti formula ini:",
+            "tips": [
+              "Tajuk besar — Pendek dan tebal. Orang Sabah bertindak balas dengan baik kepada nada mesra dan rasa tempatan.",
+              "Visual yang jelas — Kontras tinggi, susun atur ringkas, warna jenama yang kuat.",
+              "Logo besar — Jadikan ia tidak dapat disangkal dari jauh.",
+              "Hubungan atau arah (jika perlu) — Terutamanya berguna untuk F&B, runcit, atau lokasi."
+            ],
+            "conclusion": "Kejelasan kreatif = kejayaan kempen."
+          },
+          "budgetSize": {
+            "title": "6. Padankan Saiz Papan Iklan Anda dengan Bajet Anda",
+            "text": "Saiz papan iklan di Sabah secara amnya termasuk:",
+            "sizes": [
+              "10' x 20' → Kawasan bandar, mampu milik, promosi jangka pendek",
+              "12' x 24' → Papan bandar standard",
+              "20' x 40' → Zon bandar & komersial premium",
+              "40' x 60' dan lebih besar → Unipol lebuh raya, penjenamaan jangka panjang"
+            ],
+            "conclusion": "Lebih besar tidak selalu lebih baik — yang penting adalah penempatan dan kebolehbacaan."
+          },
+          "aiPlanning": {
+            "title": "7. Gunakan AI untuk Perancangan Papan Iklan yang Lebih Bijak",
+            "text": "Dengan AI kini diintegrasikan ke dalam sistem Eastmy Media, anda boleh membuat keputusan yang lebih bijak:",
+            "benefits": [
+              "Ramalkan pergerakan khalayak",
+              "Kenal pasti papan berpotensi tinggi untuk industri anda",
+              "Bandingkan lokasi mengikut nilai keterlihatan",
+              "Anggarkan paparan berpotensi",
+              "Elakkan papan berprestasi rendah",
+              "Bina laluan kempen yang dioptimumkan"
+            ],
+            "conclusion": "AI menghapuskan tekaan dan membantu anda memilih papan iklan yang tepat sesuai dengan khalayak dan bajet anda."
+          },
+          "conclusion": {
+            "title": "Kesimpulan",
+            "text": "Memilih papan iklan yang betul di Sabah memerlukan gabungan strategi, pemahaman khalayak, reka bentuk kreatif, dan analisis lokasi yang bijak. Apabila dilakukan dengan betul, pengiklanan papan iklan menjadi salah satu saluran ROI tertinggi untuk promosi jangka pendek dan pembinaan jenama jangka panjang. Dengan alat AI dan wawasan pakar dari Eastmy Media, anda boleh memilih papan iklan yang sempurna dengan yakin untuk meningkatkan jenama anda di seluruh Malaysia Timur."
+          }
+        }
+      },
+      "oohDigitalWorld": {
+        "title": "Mengapa Pengiklanan OOH Masih Berkesan dalam Dunia Digital",
+        "excerpt": "Temui mengapa pengiklanan luar kekal berkuasa walaupun dalam era digital. Ketahui bagaimana papan iklan memberikan keterlihatan yang tidak boleh dilangkau, membina kepercayaan jenama, dan melengkapkan pemasaran digital anda untuk ROI maksimum.",
+        "date": "21 Nov 2025",
+        "readTime": "8 min baca",
+        "author": "Eastmy Media",
+        "category": "Wawasan Industri",
+        "content": {
+          "introduction": {
+            "title": "Pengenalan",
+            "text": "Walaupun jenama melabur banyak dalam iklan digital dan media sosial, pengiklanan luar (OOH) terus membuktikan kuasanya. Papan iklan, skrin LED, iklan transit, dan papan tanda luar memberikan hasil yang digital sahaja tidak dapat capai. Malah, kajian menunjukkan bahawa menggabungkan OOH dengan pemasaran dalam talian sering meningkatkan prestasi kempen keseluruhan dengan ketara."
+          },
+          "cantSkip": {
+            "title": "1. Anda Tidak Boleh Langkau Papan Iklan",
+            "text": "Salah satu kekuatan terbesar pengiklanan OOH adalah ia tidak dapat dielakkan. Orang boleh langkau iklan YouTube, sekat pop-up, abaikan iklan banner, dan tatal melepasi pos tajaan. Tetapi apabila seseorang memandu melepasi papan iklan atau berjalan berhampiran skrin digital, mereka tidak boleh langkauinya. Mesej sampai kepada mereka secara semula jadi tanpa terasa mengganggu. Ini menjadikan OOH alat kesedaran berimpak tinggi yang berfungsi 24/7."
+          },
+          "trustCredibility": {
+            "title": "2. Kepercayaan Tinggi dan Kredibiliti Jenama yang Kuat",
+            "text": "OOH memberikan jenama rasa autoriti. Papan iklan besar mewujudkan tanggapan bahawa jenama itu mantap dan boleh dipercayai. Apabila pengguna melihat syarikat dipaparkan pada struktur luar fizikal, ia terasa lebih \"nyata\" berbanding iklan dalam talian yang boleh muncul dan hilang bila-bila masa. Faktor kredibiliti ini amat penting untuk jenama baru yang cuba membina kepercayaan dalam pasaran tempatan."
+          },
+          "rightMoments": {
+            "title": "3. Mencapai Orang pada Saat yang Tepat",
+            "text": "Orang menghabiskan lebih banyak masa di luar berbanding sebelum ini — berulang alik ke tempat kerja, makan di luar, melawat pusat membeli-belah, dan mengembara. OOH menarik perhatian semasa rutin harian semula jadi ini. Apabila iklan anda diletakkan secara strategik di sepanjang lebuh raya, persimpangan sibuk, atau kawasan komersial utama, jenama anda menjadi sebahagian daripada persekitaran harian mereka. Pendedahan berulang ini membawa kepada ingatan dan pengiktirafan yang lebih kuat."
+          },
+          "digitalPartner": {
+            "title": "4. Rakan Kongsi Sempurna untuk Pemasaran Digital",
+            "text": "OOH tidak bersaing dengan digital — ia melengkapinya. Papan iklan yang kuat boleh mencetuskan penglibatan dalam talian. Ramai orang melihat iklan luar dan kemudian mencari jenama di Google atau media sosial. Kesan luar talian-ke-dalam talian ini meningkatkan trafik digital anda dan memperbaiki penukaran. Kod QR, pautan pendek, dan pemegang sosial pada papan iklan juga menggalakkan tindakan segera."
+          },
+          "costEffective": {
+            "title": "5. Kos Efektif dengan ROI Tinggi",
+            "text": "Pengiklanan OOH, terutamanya di wilayah seperti Sabah, sering memberikan nilai wang yang lebih baik berbanding iklan digital. Kos per paparan menjadi sangat rendah kerana jumlah trafik harian yang tinggi. Dengan satu papan iklan, mesej anda boleh dilihat oleh ribuan orang setiap hari selama berminggu-minggu atau berbulan-bulan. Untuk penjenamaan jangka panjang, ini menjadikan OOH pelaburan yang sangat cekap dengan pulangan yang kukuh."
+          },
+          "allIndustries": {
+            "title": "6. Berfungsi untuk Semua Industri",
+            "text": "Sama ada anda mempromosikan runcit, hartanah, F&B, automotif, telco, atau acara, OOH cukup fleksibel untuk sesuai dengan mana-mana industri. Dari pelancaran jenama hingga promosi, media luar memberikan anda keterlihatan tepat di mana pelanggan anda berada. Malah perniagaan kecil boleh menggunakan OOH untuk membina kehadiran tempatan yang kuat."
+          },
+          "conclusion": {
+            "title": "Kesimpulan",
+            "text": "Dalam dunia yang didominasi oleh bunyi digital, pengiklanan OOH menonjol sebagai saluran yang dipercayai dan berimpak tinggi yang memberikan keterlihatan sebenar. Keupayaannya untuk mencapai khalayak pada saat-saat penting, membina kredibiliti, dan berfungsi bersama kempen digital menjadikannya bahagian penting dalam mana-mana strategi pemasaran moden. Bagi jenama di Sabah yang ingin memaksimumkan impak pengiklanan mereka, OOH kekal sebagai salah satu pelaburan paling bijak yang tersedia."
+          }
+        }
+      },
+      "oohHotspots": {
+        "title": "Lokasi Papan Iklan Terbaik & Hotspot OOH di Sabah (2025)",
+        "excerpt": "Temui lokasi papan iklan paling strategik di Sabah untuk 2025. Dari 1Borneo hingga Jalan Gaya, ketahui di mana untuk meletakkan iklan luar anda untuk keterlihatan, trafik, dan ROI maksimum.",
+        "date": "21 Nov 2025",
+        "readTime": "10 min baca",
+        "author": "Eastmy Media",
+        "category": "Panduan Lokasi",
+        "content": {
+          "introduction": {
+            "title": "Pengenalan",
+            "text": "Sabah adalah tanah peluang pengiklanan yang luas — tetapi hanya jika anda mengetahui tempat untuk meletakkan papan iklan anda. Landskap unik negeri ini, zon perbandaran yang berkembang pesat, dan koridor pelancongan mencipta 'hotspot' semula jadi di mana pengiklanan luar berprestasi lebih baik. Panduan ini menyerlahkan lokasi papan iklan terbaik dan hotspot OOH di Sabah untuk 2025 — supaya anda boleh membuat keputusan yang lebih bijak dan mencapai hasil yang lebih baik."
+          },
+          "kkcc": {
+            "title": "1. 1Borneo & Pusat Bandar Kota Kinabalu",
+            "text": "Sebagai ibu negeri dan pusat ekonomi Sabah, Kota Kinabalu mempunyai trafik kenderaan dan pejalan kaki tertinggi di negeri ini. Pusat Bandar — termasuk kawasan sekitar 1Borneo, Suria Sabah, dan Asia City — adalah zon utama untuk keterlihatan jenama.",
+            "whyTitle": "Mengapa ia berkesan:",
+            "reasons": [
+              "Trafik harian yang padat dari pengguna tempatan, pelancong, dan pembeli",
+              "Berhampiran dengan pusat membeli-belah utama dan bangunan pejabat",
+              "Masa tontonan tinggi kerana persimpangan dan lampu isyarat",
+              "Ideal untuk kempen pelancaran, promosi, dan jenama gaya hidup"
+            ]
+          },
+          "gaya": {
+            "title": "2. Jalan Gaya & Kawasan Warisan",
+            "text": "Jalan Gaya adalah salah satu jalan paling ikonik di Kota Kinabalu. Dengan Pasar Minggu Gaya yang popular dan barisan restoran, kafe, dan kedai, ia adalah titik tumpuan utama bagi penduduk tempatan dan pelancong.",
+            "whyTitle": "Mengapa ia berkesan:",
+            "reasons": [
+              "Trafik pejalan kaki yang sangat tinggi setiap hujung minggu",
+              "Menarik pelancong yang mencari produk tempatan",
+              "Berdekatan dengan hotel dan hostel bajet",
+              "Hebat untuk restoran, kafe, dan perniagaan tempatan"
+            ]
+          },
+          "karamunsing": {
+            "title": "3. Karamunsing & Kawasan Kompleks",
+            "text": "Karamunsing adalah hab komersial yang terkenal dengan kedai IT, kompleks membeli-belah, dan kedai aksesori automotif. Kawasan ini menarik trafik harian yang konsisten dari pembeli dan perniagaan.",
+            "whyTitle": "Mengapa ia berkesan:",
+            "reasons": [
+              "Destinasi utama untuk membeli-belah elektronik dan IT",
+              "Aliran trafik yang konsisten pada siang hari",
+              "Berhampiran dengan kawasan kediaman seperti Luyang",
+              "Sesuai untuk jenama teknologi, automotif, dan runcit"
+            ]
+          },
+          "keningau": {
+            "title": "4. Keningau (Pedalaman Sabah)",
+            "text": "Keningau berfungsi sebagai hab utama untuk wilayah pedalaman Sabah. Ia adalah pintu masuk ke banyak kampung luar bandar dan mempunyai populasi tempatan yang semakin berkembang.",
+            "whyTitle": "Mengapa ia berkesan:",
+            "reasons": [
+              "Pintu masuk ke kawasan pedalaman — berfungsi sebagai hab pengagihan",
+              "Pertumbuhan dalam runcit, perbankan, dan perkhidmatan kerajaan",
+              "Kos pengiklanan lebih rendah daripada lokasi bandar KK",
+              "Pendedahan jangka panjang yang cemerlang untuk kempen seluruh negeri"
+            ]
+          },
+          "sandakan": {
+            "title": "5. Sandakan (Pantai Timur)",
+            "text": "Sandakan adalah bandar kedua terbesar di Sabah dan pusat utama untuk pelancongan (terima kasih kepada Sepilok dan Sungai Kinabatangan), perniagaan, dan perikanan. Jalan lingkaran dan koridor pintu masuk bandar menawarkan penempatan papan iklan utama.",
+            "whyTitle": "Mengapa ia berkesan:",
+            "reasons": [
+              "Trafik tinggi di sepanjang jalan lingkaran dan laluan pusat bandar",
+              "Kemasukan pelancong yang kukuh ke Sepilok dan Kinabatangan",
+              "Hab komersial untuk perdagangan pantai timur",
+              "Bagus untuk FMCG, pelancongan, dan kempen kesedaran kerajaan"
+            ]
+          },
+          "tawau": {
+            "title": "6. Tawau (Sempadan Selatan)",
+            "text": "Tawau adalah hab perdagangan yang sibuk berhampiran sempadan Indonesia. Ia berfungsi sebagai pintu masuk untuk aktiviti perdagangan rentas sempadan dan mempunyai populasi tempatan yang berkembang dengan penggunaan yang kuat.",
+            "whyTitle": "Mengapa ia berkesan:",
+            "reasons": [
+              "Pusat perdagangan untuk sektor minyak sawit, koko, dan makanan laut",
+              "Perdagangan rentas sempadan dengan Kalimantan (Indonesia)",
+              "Kawasan komersial yang sibuk dengan pelbagai jenis perniagaan",
+              "Bagus untuk pertanian, jenama industri, dan barangan pengguna"
+            ]
+          },
+          "lahad": {
+            "title": "7. Lahad Datu",
+            "text": "Lahad Datu terletak di antara Sandakan dan Tawau. Ia dikenali dengan industri kelapa sawit dan berfungsi sebagai pintu masuk ke Lembah Danum. Walaupun lebih kecil, ia mempunyai pertumbuhan ekonomi yang stabil.",
+            "whyTitle": "Mengapa ia berkesan:",
+            "reasons": [
+              "Penonton utama dalam sektor pertanian dan perladangan",
+              "Lebih murah daripada bandar utama, tetapi keterlihatan masih tinggi",
+              "Laluan perjalanan ke Lembah Danum dan kawasan pedalaman",
+              "Ideal untuk jenama jentera, pertanian, dan perkhidmatan tempatan"
+            ]
+          },
+          "kudat": {
+            "title": "8. Kudat (Hujung Utara Sabah)",
+            "text": "Kudat terletak di hujung utara Borneo dan terkenal dengan Tip of Borneo — destinasi pelancongan yang semakin popular. Bandar ini juga merupakan pintu masuk ke komuniti Rungus.",
+            "whyTitle": "Mengapa ia berkesan:",
+            "reasons": [
+              "Aliran pelancong yang berkembang ke Tip of Borneo",
+              "Laluan ke masyarakat Rungus dan resort pantai",
+              "Persaingan rendah untuk ruang papan iklan",
+              "Hebat untuk jenama pelancongan, resort, dan acara tempatan"
+            ]
+          },
+          "conclusion": {
+            "title": "Kesimpulan",
+            "text": "Landskap pengiklanan Sabah adalah pelbagai dan penuh dengan potensi. Dari pusat bandar Kota Kinabalu hingga bandar sempadan seperti Tawau dan hotspot pelancongan seperti Kudat, terdapat lokasi OOH yang sempurna untuk setiap jenama dan kempen. Dengan alat perancangan berkuasa AI dan kepakaran tempatan dari Eastmy Media, anda boleh mengenal pasti hotspot ini dengan yakin dan memaksimumkan impak pengiklanan anda di seluruh negeri."
+          }
+        }
+      }
+    }
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "subtitle": "Ada soalan? Kami ingin mendengar daripada anda. Hantar mesej kepada kami dan kami akan membalas secepat mungkin.",
+    "form": {
+      "title": "Hantar Mesej kepada Kami",
+      "firstName": "Nama Pertama",
+      "lastName": "Nama Akhir",
+      "email": "Alamat E-mel",
+      "phone": "Nombor Telefon",
+      "company": "Nama Syarikat",
+      "subject": "Subjek",
+      "message": "Mesej",
+      "submit": "Hantar Mesej",
+      "firstNamePlaceholder": "Ahmad",
+      "lastNamePlaceholder": "Abdullah",
+      "emailPlaceholder": "ahmad@contoh.com",
+      "phonePlaceholder": "+60 12-345 6789",
+      "companyPlaceholder": "Syarikat Anda",
+      "subjectPlaceholder": "Bagaimana kami boleh membantu anda?",
+      "messagePlaceholder": "Beritahu kami lebih lanjut tentang keperluan anda..."
+    },
+    "info": {
+      "title": "Maklumat Hubungan",
+      "address": "Alamat Pejabat",
+      "email": "E-mel",
+      "phone": "Telefon",
+      "hours": "Waktu Perniagaan",
+      "addressLine1": "Wisma Sabah, Jalan Tun Razak",
+      "addressLine2": "88000 Kota Kinabalu, Sabah",
+      "addressLine3": "Malaysia",
+      "phoneNumber": "+60 88-123 4567",
+      "mobileNumber": "+60 12-345 6789",
+      "emailAddress": "info@eastmymedia.com",
+      "salesEmail": "sales@eastmymedia.com",
+      "mondayFriday": "Isnin - Jumaat: 9:00 PAGI - 6:00 PETANG",
+      "saturday": "Sabtu: 9:00 PAGI - 1:00 PETANG",
+      "sunday": "Ahad: Tutup"
+    },
+    "help": {
+      "title": "Perlukan Bantuan Segera?",
+      "description": "Pasukan jualan kami sedia membantu anda dengan keperluan pengiklanan luar anda.",
+      "button": "Hubungi Pasukan Jualan"
+    },
+    "map": {
+      "title": "Lawati Pejabat Kami",
+      "subtitle": "Kami terletak di pusat Kota Kinabalu"
+    }
+  },
+  "footer": {
+    "description": "Platform pengiklanan luar terkemuka Sabah. Cari lokasi papan iklan premium di seluruh negeri.",
+    "quickLinks": "Pautan Pantas",
+    "legal": "Undang-undang",
+    "terms": "Terma Penggunaan",
+    "privacy": "Dasar Privasi",
+    "followUs": "Ikuti Kami",
+    "copyright": "© 2025 Eastmy Media. Hak cipta terpelihara."
+  },
+  "terms": {
+    "title": "Terma Penggunaan",
+    "lastUpdated": "Kemaskini terakhir: 20 November 2025",
+    "badge": "Undang-undang",
+    "sections": {
+      "acceptance": {
+        "title": "1. Penerimaan Terma",
+        "content": "Dengan mengakses dan menggunakan laman web dan perkhidmatan Eastmy Media, anda menerima dan bersetuju untuk terikat dengan Terma Penggunaan ini. Jika anda tidak bersetuju dengan terma ini, sila jangan gunakan perkhidmatan kami."
+      },
+      "description": {
+        "title": "2. Penerangan Perkhidmatan",
+        "content": "Eastmy Media menyediakan platform dalam talian untuk meneroka, membandingkan, dan menempah ruang pengiklanan luar (papan iklan) di Malaysia Timur. Perkhidmatan kami termasuk:",
+        "items": [
+          "Layaran dan carian lokasi papan iklan",
+          "Cadangan pengiklanan berkuasa AI melalui Jason (Pakar OOH)",
+          "Alat perancangan kempen",
+          "Perkhidmatan pertanyaan dan tempahan"
+        ]
+      },
+      "accounts": {
+        "title": "3. Akaun Pengguna",
+        "content": "Sesetengah ciri platform kami memerlukan anda membuat akaun menggunakan Log Masuk Google. Anda bertanggungjawab untuk mengekalkan kerahsiaan akaun anda dan untuk semua aktiviti yang berlaku di bawah akaun anda."
+      },
+      "ai": {
+        "title": "4. Penggunaan Perkhidmatan AI",
+        "content": "Pembantu AI kami, Jason, menyediakan cadangan berdasarkan maklumat yang anda berikan. Walaupun kami berusaha untuk ketepatan, cadangan yang dijana AI harus dianggap sebagai panduan sahaja. Keputusan pengiklanan akhir harus dibuat berdasarkan pertimbangan dan keperluan perniagaan anda sendiri."
+      },
+      "ip": {
+        "title": "5. Harta Intelek",
+        "content": "Semua kandungan di laman web ini, termasuk teks, grafik, logo, imej, dan perisian, adalah hak milik Eastmy Media atau pembekal kandungannya dan dilindungi oleh undang-undang hak cipta Malaysia dan antarabangsa."
+      },
+      "conduct": {
+        "title": "6. Kelakuan Pengguna",
+        "content": "Anda bersetuju untuk tidak:",
+        "items": [
+          "Menggunakan perkhidmatan untuk sebarang tujuan yang menyalahi undang-undang",
+          "Cuba mendapatkan akses tanpa kebenaran ke sistem kami",
+          "Mengganggu atau mengacau perkhidmatan",
+          "Memuat naik kod atau kandungan berniat jahat",
+          "Menyamar sebagai mana-mana orang atau entiti"
+        ]
+      },
+      "disclaimer": {
+        "title": "7. Penafian Waranti",
+        "content": "Perkhidmatan kami disediakan \"sebagaimana adanya\" tanpa waranti apa-apa jenis. Kami tidak menjamin bahawa perkhidmatan akan tidak terganggu, selamat, atau bebas ralat. Ketersediaan dan harga papan iklan tertakluk kepada perubahan tanpa notis."
+      },
+      "liability": {
+        "title": "8. Had Liabiliti",
+        "content": "Eastmy Media tidak akan bertanggungjawab untuk sebarang kerosakan tidak langsung, sampingan, khas, akibat, atau punitif yang terhasil daripada penggunaan atau ketidakupayaan anda untuk menggunakan perkhidmatan."
+      },
+      "thirdParty": {
+        "title": "9. Perkhidmatan Pihak Ketiga",
+        "content": "Platform kami mungkin mengandungi pautan ke laman web atau perkhidmatan pihak ketiga. Kami tidak bertanggungjawab untuk kandungan atau amalan tapak luaran ini."
+      },
+      "modifications": {
+        "title": "10. Pengubahsuaian kepada Terma",
+        "content": "Kami berhak untuk mengubah suai terma ini pada bila-bila masa. Perubahan akan berkuat kuasa serta-merta selepas disiarkan di laman web. Penggunaan berterusan perkhidmatan anda membentuk penerimaan terma yang diubah suai."
+      },
+      "governing": {
+        "title": "11. Undang-undang yang Mentadbir",
+        "content": "Terma ini hendaklah ditadbir oleh dan ditafsirkan mengikut undang-undang Malaysia. Sebarang pertikaian hendaklah tertakluk kepada bidang kuasa eksklusif mahkamah Sabah, Malaysia."
+      },
+      "contact": {
+        "title": "12. Maklumat Hubungan",
+        "content": "Jika anda mempunyai sebarang soalan tentang Terma Penggunaan ini, sila hubungi kami di:"
+      }
+    }
+  },
+  "privacy": {
+    "title": "Dasar Privasi",
+    "lastUpdated": "Kemaskini terakhir: 20 November 2025",
+    "badge": "Undang-undang",
+    "sections": {
+      "intro": {
+        "title": "1. Pengenalan",
+        "content": "Eastmy Media (\"kami,\" \"milik kami,\" atau \"kita\") komited untuk melindungi privasi anda. Dasar Privasi ini menerangkan bagaimana kami mengumpul, menggunakan, mendedahkan, dan melindungi maklumat anda apabila anda menggunakan laman web dan perkhidmatan kami."
+      },
+      "collect": {
+        "title": "2. Maklumat Yang Kami Kumpul",
+        "personal": {
+          "title": "Maklumat Peribadi",
+          "content": "Apabila anda log masuk dengan Google, kami mengumpul:",
+          "items": [
+            "Nama",
+            "Alamat e-mel",
+            "Gambar profil (jika ada)"
+          ]
+        },
+        "chat": {
+          "title": "Data Perbualan",
+          "content": "Apabila anda menggunakan pembantu AI kami (Jason), kami menyimpan sejarah perbualan anda untuk memberikan pengalaman yang diperibadikan dan membolehkan anda mengakses perbualan sebelumnya."
+        },
+        "usage": {
+          "title": "Maklumat Penggunaan",
+          "content": "Kami mengumpul maklumat tertentu secara automatik apabila anda melawat laman web kami, termasuk:",
+          "items": [
+            "Alamat IP",
+            "Jenis dan versi pelayar",
+            "Halaman yang dilawati dan masa yang dihabiskan",
+            "Maklumat peranti"
+          ]
+        }
+      },
+      "use": {
+        "title": "3. Bagaimana Kami Menggunakan Maklumat Anda",
+        "content": "Kami menggunakan maklumat yang dikumpul untuk:",
+        "items": [
+          "Menyediakan dan mengekalkan perkhidmatan kami",
+          "Memperibadikan pengalaman anda",
+          "Menyimpan dan mendapatkan sejarah perbualan anda",
+          "Meningkatkan cadangan AI kami",
+          "Menjawab pertanyaan anda",
+          "Menghantar komunikasi berkaitan perkhidmatan",
+          "Menganalisis corak penggunaan untuk meningkatkan platform kami"
+        ]
+      },
+      "storage": {
+        "title": "4. Penyimpanan dan Keselamatan Data",
+        "content": "Data anda disimpan dengan selamat di pelayan kami. Kami melaksanakan langkah-langkah teknikal dan organisasi yang sesuai untuk melindungi maklumat peribadi anda daripada akses, pengubahan, pendedahan, atau pemusnahan tanpa kebenaran."
+      },
+      "thirdParty": {
+        "title": "5. Perkhidmatan Pihak Ketiga",
+        "content": "Kami menggunakan perkhidmatan pihak ketiga berikut:",
+        "items": [
+          "Google OAuth: Untuk pengesahan pengguna",
+          "Mapbox: Untuk memaparkan lokasi papan iklan pada peta",
+          "OpenRouter/Perkhidmatan AI: Untuk menggerakkan pembantu AI kami"
+        ],
+        "note": "Perkhidmatan ini mempunyai dasar privasi mereka sendiri, dan kami menggalakkan anda untuk menyemaknya."
+      },
+      "sharing": {
+        "title": "6. Perkongsian Data",
+        "content": "Kami tidak menjual, memperdagangkan, atau menyewakan maklumat peribadi anda kepada pihak ketiga. Kami mungkin berkongsi maklumat hanya dalam keadaan berikut:",
+        "items": [
+          "Dengan persetujuan anda",
+          "Untuk mematuhi kewajipan undang-undang",
+          "Untuk melindungi hak dan keselamatan kami",
+          "Dengan penyedia perkhidmatan yang membantu dalam mengendalikan platform kami"
+        ]
+      },
+      "rights": {
+        "title": "7. Hak Anda",
+        "content": "Anda mempunyai hak untuk:",
+        "items": [
+          "Mengakses data peribadi anda",
+          "Membetulkan maklumat yang tidak tepat",
+          "Memadamkan akaun dan data yang berkaitan",
+          "Mengeksport sejarah perbualan anda",
+          "Menarik balik persetujuan pada bila-bila masa"
+        ]
+      },
+      "cookies": {
+        "title": "8. Kuki",
+        "content": "Kami menggunakan kuki dan teknologi penjejakan yang serupa untuk meningkatkan pengalaman anda di laman web kami. Ini termasuk:",
+        "items": [
+          "Kuki penting: Diperlukan untuk laman web berfungsi dengan betul",
+          "Kuki pengesahan: Untuk memastikan anda kekal log masuk",
+          "Kuki analitik: Untuk memahami bagaimana anda menggunakan laman web kami"
+        ]
+      },
+      "retention": {
+        "title": "9. Pengekalan Data",
+        "content": "Kami mengekalkan maklumat peribadi anda selagi akaun anda aktif atau diperlukan untuk menyediakan perkhidmatan kepada anda. Anda boleh memadamkan sejarah perbualan anda pada bila-bila masa melalui platform. Jika anda ingin memadamkan akaun anda sepenuhnya, sila hubungi kami."
+      },
+      "children": {
+        "title": "10. Privasi Kanak-kanak",
+        "content": "Perkhidmatan kami tidak ditujukan untuk individu di bawah umur 18 tahun. Kami tidak mengumpul maklumat peribadi daripada kanak-kanak dengan sengaja."
+      },
+      "changes": {
+        "title": "11. Perubahan kepada Dasar Ini",
+        "content": "Kami mungkin mengemas kini Dasar Privasi ini dari semasa ke semasa. Kami akan memberitahu anda tentang sebarang perubahan dengan menyiarkan dasar baru di halaman ini dan mengemas kini tarikh \"Kemaskini terakhir\"."
+      },
+      "contact": {
+        "title": "12. Hubungi Kami",
+        "content": "Jika anda mempunyai sebarang soalan tentang Dasar Privasi ini atau amalan data kami, sila hubungi kami di:"
+      }
+    }
+  },
+  "media": {
+    "title": "Inventori Media",
+    "subtitle": "Terokai koleksi lengkap ruang pengiklanan luar kami di Sabah",
+    "searchPlaceholder": "Cari mengikut lokasi, saiz, atau jenis...",
+    "filterBy": "Tapis mengikut",
+    "sortBy": "Susun mengikut",
+    "clearFilters": "Kosongkan semua penapis",
+    "results": "Keputusan",
+    "showingResults": "Menunjukkan {count} daripada {total} media",
+    "filters": {
+      "mediaType": "Jenis Media",
+      "allTypes": "Semua Jenis",
+      "region": "Wilayah",
+      "allRegions": "Semua Wilayah",
+      "priceRange": "Julat Harga",
+      "anyPrice": "Sebarang Harga",
+      "under5k": "Bawah RM 5k",
+      "5kTo10k": "RM 5k - 10k",
+      "10kTo20k": "RM 10k - 20k",
+      "above20k": "Atas RM 20k"
+    },
+    "traffic": "Trafik",
+    "size": "Saiz",
+    "startingFrom": "Bermula dari",
+    "viewDetails": "Lihat Butiran",
+    "perMonth": "/bln",
+    "dailyTraffic": "Trafik Harian",
+    "noResults": "Tiada keputusan dijumpai",
+    "tryAdjusting": "Cuba laraskan penapis atau pertanyaan carian anda"
+  },
+  "globalCTA": {
+    "title": "Bersedia untuk Menguatkan Jenama Anda?",
+    "description": "Mari cipta kempen pengiklanan luar yang memacu hasil sebenar untuk perniagaan anda.",
+    "explore": "Jelajah Papan Iklan",
+    "consultation": "Jadualkan Rundingan"
+  },
+  "whatsapp": {
+    "defaultMessage": "Hai, saya berminat dengan peluang pengiklanan luar.",
+    "ariaLabel": "Sembang di WhatsApp",
+    "chatWithUs": "Sembang dengan kami"
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "Mengubah Pengiklanan Luar di Sabah",
+      "description": "Kami dalam misi untuk merevolusikan cara perniagaan berhubung dengan khalayak melalui penyelesaian media luar inovatif yang dikuasakan oleh data dan AI."
+    },
+    "mission": {
+      "title": "Misi Kami",
+      "description": "Untuk mendemokratikkan pengiklanan luar di Malaysia Timur dengan menyediakan penyelesaian berasaskan data yang telus yang membantu perniagaan dari semua saiz memaksimumkan impak pemasaran mereka melalui penempatan papan iklan strategik."
+    },
+    "vision": {
+      "title": "Visi Kami",
+      "description": "Untuk menjadi platform media luar terkemuka di Asia Tenggara, menetapkan standard untuk inovasi, ketelusan, dan keberkesanan dalam pengiklanan luar rumah melalui teknologi canggih dan kepakaran tempatan."
+    },
+    "story": {
+      "title": "Kisah Kami",
+      "paragraph1": "Ditubuhkan pada 2024, Eastmy Media lahir daripada pemerhatian mudah: pengiklanan luar di Malaysia Timur adalah berpecah, kabur, dan sukar untuk dilayari bagi perniagaan yang ingin mengembangkan jangkauan mereka.",
+      "paragraph2": "Kami melihat peluang untuk membawa ketelusan dan teknologi kepada industri yang sebahagian besarnya tidak berubah selama beberapa dekad. Dengan menggabungkan pengetahuan pasaran tempatan dengan analitik berkuasa AI, kami mencipta platform yang menjadikan pengiklanan papan iklan mudah diakses, boleh diukur, dan berkesan.",
+      "paragraph3": "Hari ini, kami berbangga untuk melayani perniagaan di seluruh Malaysia Timur, dari Kota Kinabalu ke Sandakan dan Tawau, membantu mereka berhubung dengan khalayak mereka melalui penempatan media luar strategik."
+    },
+    "values": {
+      "title": "Nilai-nilai Kami",
+      "subtitle": "Prinsip yang membimbing semua yang kami lakukan",
+      "customerFirst": {
+        "title": "Pelanggan Diutamakan",
+        "description": "Kami mengutamakan kejayaan pelanggan kami dan membina perkongsian yang berkekalan."
+      },
+      "innovation": {
+        "title": "Inovasi",
+        "description": "Kami terus berkembang dengan teknologi untuk menyampaikan penyelesaian yang lebih baik."
+      },
+      "excellence": {
+        "title": "Kecemerlangan",
+        "description": "Kami mengekalkan standard tertinggi dalam semua yang kami sampaikan."
+      },
+      "localExpertise": {
+        "title": "Kepakaran Tempatan",
+        "description": "Kami memanfaatkan pengetahuan mendalam tentang pasaran dan komuniti Sabah."
+      }
+    },
+    "stats": {
+      "billboards": "Lokasi Papan Iklan",
+      "clients": "Pelanggan Gembira",
+      "impressions": "Paparan Harian",
+      "satisfaction": "Kepuasan Pelanggan"
+    }
+  },
+  "servicesPage": {
+    "hero": {
+      "badge": "Perkhidmatan Kami",
+      "title": "Penyelesaian Pengiklanan Luar Komprehensif",
+      "description": "Dari perancangan strategik hingga pelaksanaan kempen, kami menyediakan penyelesaian media luar hujung ke hujung yang dikuasakan oleh data dan kepakaran tempatan."
+    },
+    "whatWeOffer": {
+      "title": "Apa Yang Kami Tawarkan",
+      "subtitle": "Penyelesaian yang disesuaikan untuk memenuhi matlamat pengiklanan luar anda"
+    },
+    "services": {
+      "marketplace": {
+        "title": "Pasaran Papan Iklan",
+        "description": "Akses inventori terpilih kami lokasi papan iklan premium di seluruh Malaysia Timur dengan ketersediaan masa nyata dan harga yang telus.",
+        "features": [
+          "50+ Lokasi",
+          "Ketersediaan Masa Nyata",
+          "Sebut Harga Segera",
+          "Tempahan Dalam Talian"
+        ]
+      },
+      "oohExpert": {
+        "title": "Pakar OOH",
+        "description": "Perunding berkuasa AI anda yang dilatih khusus pada inventori kami. Dapatkan cadangan papan iklan peribadi berdasarkan jenama, bajet, dan matlamat anda. Ditambah akses segera kepada promosi dan tawaran semasa.",
+        "features": [
+          "Cadangan Lokasi",
+          "Pengoptimuman Bajet",
+          "Amaran Promosi",
+          "Perancangan Kempen"
+        ]
+      },
+      "analytics": {
+        "title": "Analitik & Pelaporan",
+        "description": "Jejaki prestasi kempen anda dengan analitik terperinci termasuk data trafik, paparan, dan metrik penglibatan.",
+        "features": [
+          "Analitik Trafik",
+          "Penjejakan Paparan",
+          "Laporan Tersuai",
+          "Pengukuran ROI"
+        ]
+      },
+      "campaign": {
+        "title": "Pengurusan Kempen",
+        "description": "Pengurusan kempen perkhidmatan penuh dari reka bentuk kreatif hingga pemasangan dan pemantauan sepanjang kempen anda.",
+        "features": [
+          "Perkhidmatan Kreatif",
+          "Pemasangan",
+          "Pemantauan",
+          "Penyelenggaraan"
+        ]
+      },
+      "consulting": {
+        "title": "Perundingan Strategik",
+        "description": "Bimbingan pakar mengenai strategi pengiklanan luar, pemilihan lokasi, dan pengoptimuman kempen untuk perniagaan anda.",
+        "features": [
+          "Analisis Pasaran",
+          "Strategi Lokasi",
+          "Penyelidikan Pesaing",
+          "Penyelesaian Tersuai"
+        ]
+      },
+      "digital": {
+        "title": "Rangkaian Papan Iklan Digital",
+        "description": "Manfaatkan rangkaian papan iklan digital kami yang berkembang untuk pengiklanan dinamik dan fleksibel dengan kemas kini kandungan masa nyata.",
+        "features": [
+          "Kandungan Dinamik",
+          "Penjadualan Fleksibel",
+          "Pelbagai Kreatif",
+          "Kemas Kini Segera"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "Cara Ia Berfungsi",
+      "subtitle": "Proses kami yang diperkemas menjadikan pengiklanan luar mudah dan berkesan",
+      "steps": {
+        "discover": {
+          "step": "01",
+          "title": "Temui",
+          "description": "Layari inventori papan iklan kami atau gunakan perancang AI kami untuk mencari lokasi yang sempurna untuk kempen anda."
+        },
+        "plan": {
+          "step": "02",
+          "title": "Rancang",
+          "description": "Dapatkan sebut harga segera, bandingkan pilihan, dan bina kempen anda dengan alat kami yang mudah digunakan."
+        },
+        "launch": {
+          "step": "03",
+          "title": "Lancarkan",
+          "description": "Kami mengendalikan segala-galanya dari pengeluaran kreatif hingga pemasangan, memastikan pelancaran yang lancar."
+        },
+        "optimize": {
+          "step": "04",
+          "title": "Optimumkan",
+          "description": "Pantau prestasi dengan analitik masa nyata dan optimumkan kempen anda untuk impak maksimum."
+        }
+      }
+    },
+    "industries": {
+      "title": "Industri Yang Kami Layani",
+      "subtitle": "Dipercayai oleh perniagaan merentasi pelbagai sektor",
+      "list": [
+        "Runcit & Membeli-belah",
+        "Hartanah",
+        "Automotif",
+        "Makanan & Minuman",
+        "Pelancongan & Hospitaliti",
+        "Penjagaan Kesihatan",
+        "Pendidikan",
+        "Perkhidmatan Kewangan",
+        "Teknologi",
+        "Hiburan",
+        "Kerajaan",
+        "Bukan Untung"
+      ]
+    }
+  }
+}
